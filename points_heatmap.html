@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8' />
+    <title></title>
+    <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
+    <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.16.0/mapbox-gl.js'></script>
+    <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.16.0/mapbox-gl.css' rel='stylesheet' />
+    <style>
+        body { margin:0; padding:0; }
+        #map { position:absolute; top:0; bottom:0; width:100%; }
+    </style>
+</head>
+<body>
+
+<style>
+#map-toolbar-wrapper {
+    font: 12px/20px 'Helvetica Neue', Arial, Helvetica, sans-serif;
+    position: absolute;
+    text-align: center;
+    width: 100%;
+    bottom: 10px;
+}
+#map-toolbar {
+  background: #fff;
+  box-shadow: 0 0 5px rgba(0,0,0,0.2);
+  display: inline-block;
+  padding: 10px;
+}
+#map-toolbar label {
+  border-radius: 3px;
+  cursor: pointer;
+  display: inline-block;
+  padding: 10px;
+  margin: 0 5px;
+  width: 90px;
+}
+#map-toolbar label:hover {
+  background: #dde8eb;
+}
+#map-toolbar label p {
+  margin: 0;
+  line-height: 1em;
+}
+#map-toolbar h3 {
+  margin: 0 0 12px;
+}
+</style>
+
+<div id='map'></div>
+<div id='map-toolbar-wrapper'>
+  <div id='map-toolbar'>
+    <h3>Объекты</h3>
+    <label>
+      <img src="images/vibze-school.svg" />
+      <p>Школы</p>
+      <input id="cb-schools" type="radio" name="type" value="school" onChange="didChangeCheckbox(this)" /> </label>
+    <label>
+      <img src="images/vibze-kindergarten.svg" />
+      <p>Детские сады</p>
+      <input type="radio" name="type" value="kindergarten" onChange="didChangeCheckbox(this)" /></label>
+    <label>
+      <img src="images/vibze-hospital.svg" />
+      <p>Больницы</p>
+      <input type="radio" name="type" value="hospital" onChange="didChangeCheckbox(this)" /></label>
+    <label>
+      <img src="images/vibze-clinic.svg" />
+      <p>Клиники</p>
+      <input type="radio" name="type" value="clinic" onChange="didChangeCheckbox(this)" /></label>
+    <label>
+      <img src="images/vibze-pharmacy.svg" />
+      <p>Аптеки</p>
+      <input type="radio" name="type" value="pharmacy" onChange="didChangeCheckbox(this)" /></label>
+  </div>
+</div>
+
+<script>
+mapboxgl.accessToken = 'pk.eyJ1IjoidnRlbiIsImEiOiJjaWhvYWZsM3cwMGo1dmFtOWg5dTFiaXY1In0.rjVAC6JeKJMvd4DnQHhOTQ';
+var map = new mapboxgl.Map({
+    container: 'map',
+    style: 'mapbox://styles/vten/cims14d4c0141d2nppbzre0ud',
+    center: [65.90233863699689, 47.973686202917065],
+    minZoom: 2,
+    zoom: 4
+});
+
+var overlay = document.getElementById('map-overlay');
+
+// Create a popup, but don't add it to the map yet.
+var popup = new mapboxgl.Popup({
+    closeButton: false
+});
+
+map.on('load', function() {
+    var canvas = map.getCanvasContainer();
+
+    map.addSource('places', { type: "geojson", data: "data/places.geojson" });
+
+    var colors = {
+      school: '#5194FF',
+      pharmacy: '#00B01A',
+      clinic: '#1AC4FF',
+      hospital: '#FF7676',
+      kindergarten: '#C0BA06'
+    };
+    var pointTypes = ["school", "pharmacy", "clinic", "hospital", "kindergarten"];
+    pointTypes.forEach(function(t) {
+      map.addSource("points-"+t, { type: "geojson", data: "data/points_by_type/"+t+".geojson",
+        cluster: true, clusterMaxZoom: 14, clusterRadius: 20});
+
+      map.addLayer({
+        id: "points-"+t,
+        type: "circle",
+        source: "points-"+t,
+        paint: {
+              "circle-color": 'green',
+              "circle-radius": 70,
+              "circle-blur": 1 // blur the circles to get a heatmap look
+        },
+        layout: {
+          "visibility": "none"
+        }
+      }, 'building_roof_edges');
+
+      var steps = [
+        [0, 'yellow'],
+        [5, 'orange'],
+        [12, 'red']
+      ]
+      steps.forEach(function(step, i){
+        map.addLayer({
+          id: "points-"+t+"-step-"+i,
+          type: "circle",
+          source: "points-"+t,
+          paint: {
+                "circle-color": step[1],
+                "circle-radius": 100,
+                "circle-blur": 1 // blur the circles to get a heatmap look
+            },
+          layout: {
+            "visibility": "none"
+          },
+          filter: i === steps.length - 1 ?
+                [">=", "point_count", step[0]] :
+                ["all",
+                    [">=", "point_count", step[0]],
+                    ["<", "point_count", steps[i + 1][0]]]
+        }, 'building_roof_edges');
+
+      });
+    });
+
+    map.on('mousemove', function(e) {
+        var features = map.queryRenderedFeatures(e.point, {
+            layers: pointTypes.map(function(t){ return 'points-'+t; })
+        });
+        map.getCanvas().style.cursor = features.length ? 'pointer' : '';
+    });
+
+    map.on('click', function(e) {
+      var features = map.queryRenderedFeatures(e.point, {
+          layers: pointTypes.map(function(t){ return 'points-'+t; })
+      });
+
+      if (!features.length) return;
+      var feature = features[0];
+
+      var popup = new mapboxgl.Popup()
+        .setLngLat(feature.geometry.coordinates)
+        .setHTML(feature.properties.name)
+        .addTo(map);
+    });
+
+    // Check schools by default
+    document.getElementById('cb-schools').checked = true;
+    didChangeCheckbox(document.getElementById('cb-schools'));
+});
+
+function didChangeCheckbox(checkbox) {
+  var radios = document.querySelectorAll('input[type=radio]');
+  console.log(radios);
+  for(var i=0;i<radios.length;i++) {
+    var radio = radios[i];
+    var state = radio.checked ? 'visible' : 'none';
+    map.setLayoutProperty('points-'+radio.value, 'visibility', state);
+    map.setLayoutProperty('points-'+radio.value+'-step-0', 'visibility', state);
+    map.setLayoutProperty('points-'+radio.value+'-step-1', 'visibility', state);
+    map.setLayoutProperty('points-'+radio.value+'-step-2', 'visibility', state);
+  }
+}
+
+</script>
+
+</body>
+</html>

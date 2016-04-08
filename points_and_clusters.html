@@ -14,33 +14,71 @@
 <body>
 
 <style>
-#map-toolbar {
+#map-toolbar-wrapper {
     font: 12px/20px 'Helvetica Neue', Arial, Helvetica, sans-serif;
-    background-color: #fff;
-    box-shadow: 0 1px 2px rgba(0,0,0,0.10);
-    border-radius: 3px;
     position: absolute;
+    text-align: center;
     width: 100%;
-    height: 50px;
-    bottom: 0;
-    padding: 10px;
+    bottom: 10px;
+}
+#map-toolbar {
+  background: #fff;
+  box-shadow: 0 0 5px rgba(0,0,0,0.2);
+  display: inline-block;
+  padding: 10px;
+}
+#map-toolbar label {
+  border-radius: 3px;
+  cursor: pointer;
+  display: inline-block;
+  padding: 10px;
+  margin: 0 5px;
+  width: 90px;
+}
+#map-toolbar label:hover {
+  background: #dde8eb;
+}
+#map-toolbar label p {
+  margin: 0;
+  line-height: 1em;
+}
+#map-toolbar h3 {
+  margin: 0 0 12px;
 }
 </style>
 
 <div id='map'></div>
-<div id='map-toolbar'>
-  <label><input type="checkbox" value="school" onChange="didChangeCheckbox(this)" /> Школы</label>
-  <label><input type="checkbox" value="kindergarten" onChange="didChangeCheckbox(this)" /> Детские сады</label>
-  <label><input type="checkbox" value="hospital" onChange="didChangeCheckbox(this)" /> Больницы</label>
-  <label><input type="checkbox" value="clinic" onChange="didChangeCheckbox(this)" /> Клиники</label>
-  <label><input type="checkbox" value="pharmacy" onChange="didChangeCheckbox(this)" /> Аптеки</label>
+<div id='map-toolbar-wrapper'>
+  <div id='map-toolbar'>
+    <h3>Объекты</h3>
+    <label>
+      <img src="images/vibze-school.svg" />
+      <p>Школы</p>
+      <input id="cb-schools" type="checkbox" value="school" onChange="didChangeCheckbox(this)" /> </label>
+    <label>
+      <img src="images/vibze-kindergarten.svg" />
+      <p>Детские сады</p>
+      <input type="checkbox" value="kindergarten" onChange="didChangeCheckbox(this)" /></label>
+    <label>
+      <img src="images/vibze-hospital.svg" />
+      <p>Больницы</p>
+      <input type="checkbox" value="hospital" onChange="didChangeCheckbox(this)" /></label>
+    <label>
+      <img src="images/vibze-clinic.svg" />
+      <p>Клиники</p>
+      <input type="checkbox" value="clinic" onChange="didChangeCheckbox(this)" /></label>
+    <label>
+      <img src="images/vibze-pharmacy.svg" />
+      <p>Аптеки</p>
+      <input type="checkbox" value="pharmacy" onChange="didChangeCheckbox(this)" /></label>
+  </div>
 </div>
 
 <script>
 mapboxgl.accessToken = 'pk.eyJ1IjoidnRlbiIsImEiOiJjaWhvYWZsM3cwMGo1dmFtOWg5dTFiaXY1In0.rjVAC6JeKJMvd4DnQHhOTQ';
 var map = new mapboxgl.Map({
     container: 'map',
-    style: 'mapbox://styles/mapbox/streets-v8',
+    style: 'mapbox://styles/vten/cims14d4c0141d2nppbzre0ud',
     center: [65.90233863699689, 47.973686202917065],
     minZoom: 2,
     zoom: 4
@@ -56,13 +94,17 @@ var popup = new mapboxgl.Popup({
 map.on('load', function() {
     var canvas = map.getCanvasContainer();
 
-    // Add the source to query. In this example we're using
-    // county polygons uploaded as vector tiles
-    map.addSource('adm1', { type: "geojson", data: "data/adm1.geojson" });
-    map.addSource('adm2', { type: "geojson", data: "data/adm2.geojson" });
     map.addSource('places', { type: "geojson", data: "data/places.geojson" });
 
-    ["school", "pharmacy", "clinic", "hospital", "kindergarten"].forEach(function(t) {
+    var colors = {
+      school: '#5194FF',
+      pharmacy: '#00B01A',
+      clinic: '#1AC4FF',
+      hospital: '#FF7676',
+      kindergarten: '#C0BA06'
+    };
+    var pointTypes = ["school", "pharmacy", "clinic", "hospital", "kindergarten"];
+    pointTypes.forEach(function(t) {
       map.addSource("points-"+t, { type: "geojson", data: "data/points_by_type/"+t+".geojson",
         cluster: true, clusterMaxZoom: 14, clusterRadius: 50});
 
@@ -71,7 +113,7 @@ map.on('load', function() {
         type: "symbol",
         source: "points-"+t,
         layout: {
-          "icon-image": "marker-15",
+          "icon-image": "vibze-"+t,
           "visibility": "none"
         }
       });
@@ -81,7 +123,7 @@ map.on('load', function() {
         type: "circle",
         source: "points-"+t,
         paint: {
-          "circle-color": "#f28cb1",
+          "circle-color": colors[t],
           "circle-radius": 18
         },
         layout: {
@@ -96,63 +138,39 @@ map.on('load', function() {
         source: "points-"+t,
         layout: {
             "text-field": "{point_count}",
-            "text-size": 12,
+            "text-size": 14,
             "visibility": "none"
+        },
+        paint: {
+          "text-color": "#FFFFFF"
         }
       });
     });
 
-    map.addLayer({
-        "id": "adm1",
-        "type": "fill",
-        "source": "adm1",
-        "source-layer": "original",
-        "paint": {
-            "fill-outline-color": "rgba(0,0,0,0.1)",
-            "fill-color": "rgba(255,255,255,0)"
-        }
-    }, 'place-city-sm'); // Place polygon under these labels.
-
-    map.addLayer({
-        "id": "adm2",
-        "type": "fill",
-        "source": "adm2",
-        "source-layer": "original",
-        "paint": {
-            "fill-outline-color": "rgba(0,0,0,0.1)",
-            "fill-color": "rgba(0,0,0,0.1)"
-        }
-    }, 'place-city-sm'); // Place polygon under these labels.
-
-    map.addLayer({
-        "id": "adm1-highlighted",
-        "type": "fill",
-        "source": "adm1",
-        "source-layer": "original",
-        "paint": {
-            "fill-outline-color": "#484896",
-            "fill-color": "rgba(255,255,255,0.1)"
-        },
-        "filter": ['in', 'ID_1', '']
-    }, 'place-city-sm'); // Place polygon under these labels.
-
     map.on('mousemove', function(e) {
         var features = map.queryRenderedFeatures(e.point, {
-            layers: ['adm1']
+            layers: pointTypes.map(function(t){ return 'points-'+t; })
         });
-
-        // Change the cursor style as a UI indicator.
         map.getCanvas().style.cursor = features.length ? 'pointer' : '';
-
-        if (!features.length) {
-          map.setFilter('adm1-highlighted', ['in', 'ID_1', '']);
-          return;
-        }
-
-        var feature = features[0];
-
-        map.setFilter('adm1-highlighted', ['in', 'ID_1', feature.properties.ID_1]);
     });
+
+    map.on('click', function(e) {
+      var features = map.queryRenderedFeatures(e.point, {
+          layers: pointTypes.map(function(t){ return 'points-'+t; })
+      });
+
+      if (!features.length) return;
+      var feature = features[0];
+
+      var popup = new mapboxgl.Popup()
+        .setLngLat(feature.geometry.coordinates)
+        .setHTML(feature.properties.name)
+        .addTo(map);
+    });
+
+    // Check schools by default
+    document.getElementById('cb-schools').checked = true;
+    didChangeCheckbox(document.getElementById('cb-schools'));
 });
 
 function didChangeCheckbox(checkbox) {
