@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8' />
+    <title></title>
+    <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
+    <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.16.0/mapbox-gl.js'></script>
+    <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.16.0/mapbox-gl.css' rel='stylesheet' />
+    <style>
+        body { margin:0; padding:0; }
+        #map { position:absolute; top:0; bottom:0; width:100%; }
+    </style>
+</head>
+<body>
+
+<style>
+#map-toolbar {
+    font: 12px/20px 'Helvetica Neue', Arial, Helvetica, sans-serif;
+    background-color: #fff;
+    box-shadow: 0 1px 2px rgba(0,0,0,0.10);
+    border-radius: 3px;
+    position: absolute;
+    width: 100%;
+    height: 50px;
+    bottom: 0;
+    padding: 10px;
+}
+</style>
+
+<div id='map'></div>
+<div id='map-toolbar'>
+  <label><input type="checkbox" value="school" onChange="didChangeCheckbox(this)" /> Школы</label>
+  <label><input type="checkbox" value="kindergarten" onChange="didChangeCheckbox(this)" /> Детские сады</label>
+  <label><input type="checkbox" value="hospital" onChange="didChangeCheckbox(this)" /> Больницы</label>
+  <label><input type="checkbox" value="clinic" onChange="didChangeCheckbox(this)" /> Клиники</label>
+  <label><input type="checkbox" value="pharmacy" onChange="didChangeCheckbox(this)" /> Аптеки</label>
+</div>
+
+<script>
+mapboxgl.accessToken = 'pk.eyJ1IjoidnRlbiIsImEiOiJjaWhvYWZsM3cwMGo1dmFtOWg5dTFiaXY1In0.rjVAC6JeKJMvd4DnQHhOTQ';
+var map = new mapboxgl.Map({
+    container: 'map',
+    style: 'mapbox://styles/mapbox/streets-v8',
+    center: [65.90233863699689, 47.973686202917065],
+    minZoom: 2,
+    zoom: 4
+});
+
+var overlay = document.getElementById('map-overlay');
+
+// Create a popup, but don't add it to the map yet.
+var popup = new mapboxgl.Popup({
+    closeButton: false
+});
+
+map.on('load', function() {
+    var canvas = map.getCanvasContainer();
+
+    // Add the source to query. In this example we're using
+    // county polygons uploaded as vector tiles
+    map.addSource('adm1', { type: "geojson", data: "data/adm1.geojson" });
+    map.addSource('adm2', { type: "geojson", data: "data/adm2.geojson" });
+    map.addSource('places', { type: "geojson", data: "data/places.geojson" });
+
+    ["school", "pharmacy", "clinic", "hospital", "kindergarten"].forEach(function(t) {
+      map.addSource("points-"+t, { type: "geojson", data: "data/points_by_type/"+t+".geojson",
+        cluster: true, clusterMaxZoom: 14, clusterRadius: 50});
+
+      map.addLayer({
+        id: "points-"+t,
+        type: "symbol",
+        source: "points-"+t,
+        layout: {
+          "icon-image": "marker-15",
+          "visibility": "none"
+        }
+      });
+
+      map.addLayer({
+        id: "points-"+t+"-clusters",
+        type: "circle",
+        source: "points-"+t,
+        paint: {
+          "circle-color": "#f28cb1",
+          "circle-radius": 18
+        },
+        layout: {
+          "visibility": "none"
+        },
+        filter: ['>=', 'point_count', 0]
+      });
+
+      map.addLayer({
+        id: "points-"+t+"-cluster-count",
+        type: "symbol",
+        source: "points-"+t,
+        layout: {
+            "text-field": "{point_count}",
+            "text-size": 12,
+            "visibility": "none"
+        }
+      });
+    });
+
+    map.addLayer({
+        "id": "adm1",
+        "type": "fill",
+        "source": "adm1",
+        "source-layer": "original",
+        "paint": {
+            "fill-outline-color": "rgba(0,0,0,0.1)",
+            "fill-color": "rgba(255,255,255,0)"
+        }
+    }, 'place-city-sm'); // Place polygon under these labels.
+
+    map.addLayer({
+        "id": "adm2",
+        "type": "fill",
+        "source": "adm2",
+        "source-layer": "original",
+        "paint": {
+            "fill-outline-color": "rgba(0,0,0,0.1)",
+            "fill-color": "rgba(0,0,0,0.1)"
+        }
+    }, 'place-city-sm'); // Place polygon under these labels.
+
+    map.addLayer({
+        "id": "adm1-highlighted",
+        "type": "fill",
+        "source": "adm1",
+        "source-layer": "original",
+        "paint": {
+            "fill-outline-color": "#484896",
+            "fill-color": "rgba(255,255,255,0.1)"
+        },
+        "filter": ['in', 'ID_1', '']
+    }, 'place-city-sm'); // Place polygon under these labels.
+
+    map.on('mousemove', function(e) {
+        var features = map.queryRenderedFeatures(e.point, {
+            layers: ['adm1']
+        });
+
+        // Change the cursor style as a UI indicator.
+        map.getCanvas().style.cursor = features.length ? 'pointer' : '';
+
+        if (!features.length) {
+          map.setFilter('adm1-highlighted', ['in', 'ID_1', '']);
+          return;
+        }
+
+        var feature = features[0];
+
+        map.setFilter('adm1-highlighted', ['in', 'ID_1', feature.properties.ID_1]);
+    });
+});
+
+function didChangeCheckbox(checkbox) {
+  var state = checkbox.checked ? 'visible' : 'none';
+  map.setLayoutProperty('points-'+checkbox.value, 'visibility', state);
+  map.setLayoutProperty('points-'+checkbox.value+'-clusters', 'visibility', state);
+  map.setLayoutProperty('points-'+checkbox.value+'-cluster-count', 'visibility', state);
+}
+
+</script>
+
+</body>
+</html>

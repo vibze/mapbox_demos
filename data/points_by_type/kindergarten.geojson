@@ -1,0 +1,2955 @@
+{
+  "type": "FeatureCollection",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "499010656",
+        "timestamp": "2012-06-13T15:32:06Z",
+        "name": "ДС Ёлочка",
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.18484519999998,
+          50.4659119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "523059812",
+        "timestamp": "2013-06-12T14:21:50Z",
+        "name": "д/с Журавушка",
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.5557667,
+          50.742286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "537550527",
+        "timestamp": "2009-10-21T10:08:01Z",
+        "name": "ДС №6",
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.287246,
+          51.718696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "537554918",
+        "timestamp": "2014-10-23T18:52:49Z",
+        "name": "СШ №21",
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3062095,
+          51.708847599999984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "537558232",
+        "timestamp": "2009-10-21T10:13:27Z",
+        "name": "СШ №4",
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.320976,
+          51.711681
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "537559156",
+        "timestamp": "2009-10-21T10:14:16Z",
+        "name": "Д\\С №13",
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.304153,
+          51.72155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "537562600",
+        "timestamp": "2009-10-21T10:18:32Z",
+        "name": "ДС №8",
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.295204,
+          51.726745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "537563109",
+        "timestamp": "2013-03-30T16:52:27Z",
+        "name": "ДС",
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.29496909999999,
+          51.7362173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "537563415",
+        "timestamp": "2009-10-21T10:21:14Z",
+        "name": "СЩ №22",
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.310508,
+          51.727687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "537564082",
+        "timestamp": "2016-03-12T09:34:31Z",
+        "name": null,
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.315208,
+          51.723804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "537564380",
+        "timestamp": "2009-10-21T10:24:15Z",
+        "name": "ДС №15",
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.31488,
+          51.731143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "537581516",
+        "timestamp": "2013-10-03T00:03:54Z",
+        "name": "Д\\С №15",
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.32875119999999,
+          51.7189598
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "537582471",
+        "timestamp": "2009-10-21T10:38:10Z",
+        "name": "Д\\С №5",
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.33319,
+          51.721595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "537582908",
+        "timestamp": "2009-10-21T10:38:34Z",
+        "name": "Д\\С №19",
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.336151,
+          51.712989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "537583572",
+        "timestamp": "2015-02-21T11:38:16Z",
+        "name": "Д\\С №18 Гномик",
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3374732,
+          51.71634739999998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "537594154",
+        "timestamp": "2013-03-30T19:32:23Z",
+        "name": "Д\\С №16",
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.32594889999999,
+          51.7265412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "537597422",
+        "timestamp": "2009-10-21T10:51:53Z",
+        "name": "ДС №3",
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.332908,
+          51.733654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "537600275",
+        "timestamp": "2009-10-21T10:54:48Z",
+        "name": "Д\\С №2",
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.325012,
+          51.73788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "559945625",
+        "timestamp": "2009-11-09T11:21:50Z",
+        "name": null,
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.20733169999998,
+          50.39521019999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "559945626",
+        "timestamp": "2010-03-01T17:39:10Z",
+        "name": null,
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.21000039999998,
+          50.39703919999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "612804321",
+        "timestamp": "2010-01-13T13:34:44Z",
+        "name": "детский сад",
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.5228651,
+          50.125904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "691240774",
+        "timestamp": "2010-05-23T14:44:47Z",
+        "name": "я/c  Жулдыс",
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1372832,
+          49.7697192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "691256709",
+        "timestamp": "2012-03-31T17:28:03Z",
+        "name": "я/c  Еркетай",
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.15179259999998,
+          49.78248739999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "691256782",
+        "timestamp": "2010-04-10T10:27:04Z",
+        "name": "я/c Альтер",
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.14933319999997,
+          49.783876699999986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "691256907",
+        "timestamp": "2010-04-10T10:27:56Z",
+        "name": "я/c Куаныш",
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.14939479999998,
+          49.78495479999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "691259588",
+        "timestamp": "2010-05-23T14:59:53Z",
+        "name": "Я/c Яйсулу",
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.13500129999998,
+          49.77379689999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "695797325",
+        "timestamp": "2010-04-13T20:00:11Z",
+        "name": "Д/с № 134 \"Гаухар\"",
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.10818769999997,
+          49.81127979999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "710726952",
+        "timestamp": "2010-04-28T17:30:38Z",
+        "name": "я\\с Карлыгаш",
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.19065249999998,
+          49.87064969999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "710910344",
+        "timestamp": "2010-11-29T14:17:54Z",
+        "name": "я/c  Лесок",
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1598031,
+          49.7889735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "735414673",
+        "timestamp": "2012-03-23T14:00:15Z",
+        "name": "Детский сад",
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.17687179999999,
+          52.1849896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "735421112",
+        "timestamp": "2012-03-23T14:00:15Z",
+        "name": "Детский сад",
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.18183449999999,
+          52.18912959999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "823477950",
+        "timestamp": "2012-09-24T12:04:29Z",
+        "name": "д/с \"Мерей\"",
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.07917439999999,
+          49.795679599999985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "823477960",
+        "timestamp": "2010-07-18T17:41:17Z",
+        "name": "сад №121",
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.07766009999999,
+          49.794315799999985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "844802135",
+        "timestamp": "2010-08-03T13:20:38Z",
+        "name": "Ертостик детсад",
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.09736429999998,
+          49.8137788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "864025194",
+        "timestamp": "2010-08-16T21:55:35Z",
+        "name": "я/c Балапан",
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.14403239999999,
+          49.77852379999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "864025314",
+        "timestamp": "2012-03-31T17:37:55Z",
+        "name": "я/c №41 \"Гулдер\"",
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1477564,
+          49.77656909999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "914020850",
+        "timestamp": "2014-05-03T11:40:52Z",
+        "name": "д/сад №6",
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.86434929999998,
+          53.363267499999985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1127594132",
+        "timestamp": "2015-06-14T13:15:26Z",
+        "name": "Детский сад «Алпамыс»",
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.00175529999999,
+          46.83857549999998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1150879754",
+        "timestamp": "2015-03-13T16:56:47Z",
+        "name": "Дет. Сад №70",
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.60316459999999,
+          49.9640654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1209459342",
+        "timestamp": "2011-03-19T20:29:30Z",
+        "name": "развивающий клуб \"Тигруля\"",
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.858042,
+          43.2215899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1274034066",
+        "timestamp": "2011-05-06T06:12:30Z",
+        "name": "Ер-тостик №75",
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.44027589999999,
+          51.15407
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1293117717",
+        "timestamp": "2011-05-22T05:46:47Z",
+        "name": "Ясли-сад N18 \"Балдырган\"",
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.98256459999999,
+          50.0554535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1350934223",
+        "timestamp": "2011-07-06T06:40:30Z",
+        "name": "Детсад",
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.04490909999998,
+          49.7946182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1350935891",
+        "timestamp": "2011-07-06T06:40:30Z",
+        "name": "Детсад",
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.04555349999998,
+          49.792509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1350935892",
+        "timestamp": "2011-07-06T06:40:30Z",
+        "name": "Детсад",
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.04442889999999,
+          49.79382479999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1360081993",
+        "timestamp": "2011-07-13T04:31:32Z",
+        "name": "Аленький цветочек",
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.25334269999998,
+          50.405052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1424007392",
+        "timestamp": "2011-12-27T17:03:00Z",
+        "name": null,
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.71188239999998,
+          47.80686749999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1430703705",
+        "timestamp": "2011-09-12T06:10:25Z",
+        "name": "Детский сад",
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.35233139999998,
+          54.297721399999986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1433617351",
+        "timestamp": "2011-11-30T08:30:30Z",
+        "name": "Центр дошкольного воспита",
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.27012,
+          50.41628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1445282162",
+        "timestamp": "2011-09-25T09:48:13Z",
+        "name": "Детский сад Гвоздичка",
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.087348,
+          49.81013029999998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1488855423",
+        "timestamp": "2011-11-01T19:03:50Z",
+        "name": "Садик",
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.095659,
+          49.79624779999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1517353793",
+        "timestamp": "2011-11-26T03:51:58Z",
+        "name": "Ясли сад \"Балдырган\"",
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0845553,
+          49.914072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1524321743",
+        "timestamp": "2011-11-30T06:05:01Z",
+        "name": "Детский сад",
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.87402849999997,
+          43.22161209999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1664232262",
+        "timestamp": "2012-03-07T12:53:57Z",
+        "name": null,
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.754175299999986,
+          52.443214099999985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1694566942",
+        "timestamp": "2012-03-28T10:49:37Z",
+        "name": null,
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.60006509999998,
+          49.6997317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1695960558",
+        "timestamp": "2012-03-29T17:46:57Z",
+        "name": "Раушан",
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          66.9154076,
+          50.25075959999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1697910443",
+        "timestamp": "2015-10-15T09:18:28Z",
+        "name": "Детский дом",
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          66.93470979999998,
+          50.2657215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1699832336",
+        "timestamp": "2012-03-31T16:31:58Z",
+        "name": "я/c  Лесок",
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.158717,
+          49.78969989999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1753781507",
+        "timestamp": "2013-12-30T18:37:37Z",
+        "name": "8А Детский сад №85",
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.87592849999997,
+          43.2000193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1754709291",
+        "timestamp": "2012-05-16T10:31:31Z",
+        "name": "Ясли-сад № 1",
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.56114289999998,
+          53.242941299999984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1754709293",
+        "timestamp": "2012-05-16T10:31:32Z",
+        "name": "Ясли-сад № 17",
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.6889101,
+          53.246518299999984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1773677268",
+        "timestamp": "2013-06-03T15:58:06Z",
+        "name": "Дошкольный мини-центр",
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.13698259999998,
+          54.908821799999984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1781314809",
+        "timestamp": "2015-10-03T14:05:21Z",
+        "name": "\"Әсем\" балалар бақшасы",
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.76665539999998,
+          43.6778791
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1782904012",
+        "timestamp": "2012-06-10T18:58:09Z",
+        "name": "детский сад №12",
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.34113509999999,
+          42.8831732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1782904221",
+        "timestamp": "2012-06-10T18:58:53Z",
+        "name": "детский сад №6",
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.34242249999998,
+          42.88314179999998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1783301390",
+        "timestamp": "2012-06-11T08:22:38Z",
+        "name": "Бала бакша",
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.19315629999998,
+          43.2698927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1783506175",
+        "timestamp": "2012-06-11T13:12:57Z",
+        "name": "Бал-булак",
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.56470229999998,
+          42.3199026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1783506177",
+        "timestamp": "2012-06-11T13:12:57Z",
+        "name": "Светлячок",
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.56420879999999,
+          42.3165073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1783506180",
+        "timestamp": "2012-06-11T13:12:57Z",
+        "name": null,
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.560561,
+          42.3160313
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1783786062",
+        "timestamp": "2013-09-03T18:24:15Z",
+        "name": "Детский сад",
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.32405929999997,
+          43.20996109999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1785716786",
+        "timestamp": "2012-06-13T08:24:44Z",
+        "name": "\"Қуаныш\" балалар бақшасы",
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7711861,
+          43.6671295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1847870130",
+        "timestamp": "2012-08-02T06:04:03Z",
+        "name": "Ясли-сад №144 Бахыт",
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.07323539999999,
+          49.7827287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1858189297",
+        "timestamp": "2012-08-09T06:19:13Z",
+        "name": "д/с \"Айголёк\"",
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.15327779999997,
+          49.770203299999984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1883153269",
+        "timestamp": "2016-02-05T20:19:23Z",
+        "name": "Уяша",
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.96056149999998,
+          50.0486129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1883164996",
+        "timestamp": "2012-08-25T21:55:08Z",
+        "name": null,
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.9581368,
+          50.04693179999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1883164997",
+        "timestamp": "2012-08-25T21:55:09Z",
+        "name": null,
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.95705319999998,
+          50.047455499999984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1891922391",
+        "timestamp": "2012-08-31T17:43:46Z",
+        "name": null,
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.971358,
+          50.045465499999985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1894351286",
+        "timestamp": "2012-09-02T10:22:58Z",
+        "name": null,
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.9726796,
+          50.047084699999985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1911697780",
+        "timestamp": "2012-09-12T15:54:04Z",
+        "name": null,
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.9599474,
+          50.06509769999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1921584755",
+        "timestamp": "2016-02-05T20:19:16Z",
+        "name": "Детский сад «Звоночек»",
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.3921123,
+          53.30604789999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1930232350",
+        "timestamp": "2016-02-05T20:19:16Z",
+        "name": "Детский сад «Акку»",
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.382661,
+          53.297654399999985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1930255491",
+        "timestamp": "2016-02-05T20:19:17Z",
+        "name": "Детский сад «Чайка»",
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.38317589999998,
+          53.2892247
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1933323851",
+        "timestamp": "2016-02-05T20:19:16Z",
+        "name": "Детский сад «Нурай»",
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.41976959999998,
+          53.26961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1933334636",
+        "timestamp": "2016-02-05T20:19:16Z",
+        "name": "Детский сад «Арман»",
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.39085889999998,
+          53.313815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1933334706",
+        "timestamp": "2016-02-05T20:19:16Z",
+        "name": "Детский сад «Жулдыз»",
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.39116739999999,
+          53.3128952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1933445797",
+        "timestamp": "2016-02-05T20:19:16Z",
+        "name": "Детский сад «Акбота»",
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.366691,
+          53.28391629999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1933468021",
+        "timestamp": "2016-02-05T20:19:17Z",
+        "name": "Детский сад «им. Ю.A. Гагари",
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.40105549999998,
+          53.283064799999984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1933472472",
+        "timestamp": "2016-02-05T20:19:16Z",
+        "name": "Детский сад «Асель»",
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.3947174,
+          53.2823528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1933503919",
+        "timestamp": "2016-02-05T20:19:16Z",
+        "name": "Детский сад «Арман»",
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.39145849999998,
+          53.30928669999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1982751411",
+        "timestamp": "2012-10-25T10:24:13Z",
+        "name": "Детский центр Еркежан",
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.08815889999998,
+          54.7713174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2036372783",
+        "timestamp": "2012-11-27T14:06:33Z",
+        "name": "Детский сад",
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.4566813,
+          53.55315239999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2038068323",
+        "timestamp": "2013-02-26T17:24:28Z",
+        "name": "Балбобек детсад",
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.16483639999998,
+          41.4638485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2038187500",
+        "timestamp": "2013-02-26T17:24:29Z",
+        "name": "Гульжан детсад",
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.16859559999999,
+          41.46472569999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2039121444",
+        "timestamp": "2013-02-26T17:24:34Z",
+        "name": "Нур-ай детсад",
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.14881549999998,
+          41.4658132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2040438782",
+        "timestamp": "2013-02-26T17:24:37Z",
+        "name": "Толагай садик",
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.1773344,
+          41.4691375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2055111321",
+        "timestamp": "2013-07-31T05:31:36Z",
+        "name": "д.с.21 Каусар Булак",
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.195848799999986,
+          50.28401809999998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2061149395",
+        "timestamp": "2013-02-26T17:24:38Z",
+        "name": "Шынгыс-Н садик",
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.163184,
+          41.4578436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2063157721",
+        "timestamp": "2013-02-16T14:33:20Z",
+        "name": "Садик",
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.1868428,
+          41.477181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2063381737",
+        "timestamp": "2013-02-19T17:06:59Z",
+        "name": "Шалкар детсад",
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.20841149999998,
+          41.4632014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2063382535",
+        "timestamp": "2013-02-16T14:31:19Z",
+        "name": "Акбота детсад",
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.20724259999999,
+          41.466031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2063386116",
+        "timestamp": "2013-02-19T17:06:59Z",
+        "name": "Жауказын детсад",
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.20449549999998,
+          41.463402399999985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2063393344",
+        "timestamp": "2013-02-16T14:32:55Z",
+        "name": "Нурайым детсад",
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.16202049999998,
+          41.4502433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2063394278",
+        "timestamp": "2013-02-16T14:32:07Z",
+        "name": "Ертостик детсад",
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.16327049999997,
+          41.4507097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2063394732",
+        "timestamp": "2013-02-16T14:32:07Z",
+        "name": "Еркетай детсад",
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.16229949999999,
+          41.4520446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2063404873",
+        "timestamp": "2013-02-16T14:33:57Z",
+        "name": "Шугыла Дулат детсад",
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.17232809999999,
+          41.4547573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2063415878",
+        "timestamp": "2013-02-26T17:24:37Z",
+        "name": "Туймекыз детсад",
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.15069089999999,
+          41.4598764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2063424394",
+        "timestamp": "2013-02-26T17:24:31Z",
+        "name": "Каусар детсад",
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.1652767,
+          41.46882679999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2064769815",
+        "timestamp": "2013-02-16T14:31:41Z",
+        "name": "Балшекер детсад",
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.17069539999999,
+          41.4529964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2072140307",
+        "timestamp": "2013-02-26T17:24:32Z",
+        "name": "Макта кыз детсад",
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.1668051,
+          41.4757111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2074478411",
+        "timestamp": "2013-02-16T14:32:25Z",
+        "name": "Кулыншак детсад",
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.1826161,
+          41.4689742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2089555074",
+        "timestamp": "2013-02-16T14:34:00Z",
+        "name": "детсад",
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.20843829999998,
+          41.460829299999986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2119480649",
+        "timestamp": "2013-11-29T06:22:08Z",
+        "name": "Шалкан детсад",
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.15174409999997,
+          41.4705157
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2130675997",
+        "timestamp": "2013-11-29T06:22:08Z",
+        "name": "Булнур детсад",
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.1412654,
+          41.47159019999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2134534676",
+        "timestamp": "2013-01-30T06:58:11Z",
+        "name": "Детский сад №2 \"Булбул\"",
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.162177,
+          50.2932257
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2137127387",
+        "timestamp": "2013-11-29T04:41:49Z",
+        "name": "Лаззат детсад",
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.12006539999999,
+          41.4711904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2144966704",
+        "timestamp": "2013-02-07T05:08:52Z",
+        "name": null,
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.60895709999998,
+          53.18125459999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2144966718",
+        "timestamp": "2013-02-07T05:09:22Z",
+        "name": null,
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.605363,
+          53.178943099999984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2144983978",
+        "timestamp": "2013-02-07T06:03:17Z",
+        "name": null,
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.60552389999999,
+          53.174847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2155552560",
+        "timestamp": "2013-02-24T17:14:27Z",
+        "name": "Байтерек детсад",
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.1460846,
+          41.4507716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2191673874",
+        "timestamp": "2013-03-08T22:59:42Z",
+        "name": null,
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.90615019999998,
+          43.2229781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2204083333",
+        "timestamp": "2013-03-16T03:23:34Z",
+        "name": null,
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.94450869999999,
+          50.045900899999985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2272934185",
+        "timestamp": "2013-04-19T18:47:30Z",
+        "name": null,
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.57272,
+          50.0084565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2299471256",
+        "timestamp": "2013-05-11T11:06:54Z",
+        "name": null,
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.423776199999985,
+          51.243344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2317928754",
+        "timestamp": "2013-05-24T06:18:06Z",
+        "name": null,
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.27537119999998,
+          49.718222799999985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2317935065",
+        "timestamp": "2013-05-24T06:21:54Z",
+        "name": null,
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.268324,
+          49.7219272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2324032058",
+        "timestamp": "2015-10-03T14:05:23Z",
+        "name": "д/с Куншуак",
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.54956,
+          50.746101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2338344835",
+        "timestamp": "2013-09-20T20:11:46Z",
+        "name": "Клуб Юность",
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.10617819999999,
+          52.956803499999985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2364461538",
+        "timestamp": "2013-06-28T14:18:05Z",
+        "name": null,
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.384300199999984,
+          51.21393639999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2375964113",
+        "timestamp": "2013-07-06T11:38:58Z",
+        "name": null,
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.445145899999986,
+          51.24695759999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2425653182",
+        "timestamp": "2013-08-27T12:53:37Z",
+        "name": "Бобек детский сад",
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.3140352,
+          43.3005347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2447765125",
+        "timestamp": "2013-09-06T04:17:58Z",
+        "name": "Амина детский сад",
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.293689,
+          43.2892902
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2452567263",
+        "timestamp": "2013-09-11T05:27:33Z",
+        "name": "Айголек детсад",
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.28254209999999,
+          43.3017102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2460042089",
+        "timestamp": "2013-09-16T03:48:42Z",
+        "name": "Детсад",
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.27315739999999,
+          43.30302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2471759121",
+        "timestamp": "2013-09-26T06:57:06Z",
+        "name": "Старый детсад",
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.25830559999999,
+          43.2980457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2473089415",
+        "timestamp": "2013-09-27T04:13:49Z",
+        "name": "Ак желкен школа-детский са",
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.25936779999998,
+          43.30528979999998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2476236144",
+        "timestamp": "2013-09-29T05:30:24Z",
+        "name": "Арай детский сад",
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.24018329999998,
+          43.2983921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2477329335",
+        "timestamp": "2013-09-30T07:22:14Z",
+        "name": "Детский сад",
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.23115019999999,
+          43.281104699999986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2477519621",
+        "timestamp": "2013-09-30T11:25:42Z",
+        "name": "Куншуак детский сад",
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.22691659999998,
+          43.2805581
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2487651146",
+        "timestamp": "2013-10-08T08:00:30Z",
+        "name": "Болашак детский сад",
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.21689749999999,
+          43.2997696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2487651147",
+        "timestamp": "2013-10-08T08:00:30Z",
+        "name": "Детский сад",
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.21009749999999,
+          43.29810759999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2488982389",
+        "timestamp": "2013-10-09T05:05:14Z",
+        "name": "Асель детский сад",
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.234511,
+          43.30195939999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2489011126",
+        "timestamp": "2013-10-09T06:35:57Z",
+        "name": "Алия детский сад",
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.22731009999998,
+          43.3020781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2491872771",
+        "timestamp": "2013-10-11T05:21:56Z",
+        "name": "Келешек детский сад",
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.2020439,
+          43.2997341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2491924908",
+        "timestamp": "2013-10-11T07:29:35Z",
+        "name": "Айгуль детский сад",
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.191951,
+          43.2992199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2493598041",
+        "timestamp": "2013-10-12T11:28:30Z",
+        "name": "Балбобек детский сад",
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.203295,
+          43.2791816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2569038650",
+        "timestamp": "2013-12-06T23:14:51Z",
+        "name": "FasTracKids",
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9362224,
+          43.224168099999986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2573350928",
+        "timestamp": "2013-12-09T17:55:47Z",
+        "name": null,
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.7298245,
+          43.011168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2608588431",
+        "timestamp": "2014-06-15T10:46:24Z",
+        "name": "детский сад",
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6874647,
+          44.27759009999998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2628259755",
+        "timestamp": "2014-01-19T09:34:50Z",
+        "name": "дет.сад Балдаурен",
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.2165108,
+          49.9759834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2631298765",
+        "timestamp": "2014-01-21T16:33:15Z",
+        "name": "Ясли-сад №145 Балапан",
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.19376029999997,
+          49.888192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2631298795",
+        "timestamp": "2014-01-21T16:33:16Z",
+        "name": "Ясли-сад №6 Алданыш",
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.19631649999997,
+          49.8875958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2631333370",
+        "timestamp": "2014-01-21T17:02:00Z",
+        "name": "Ясли-сад Балбобек",
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.21553719999999,
+          49.898098199999986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2631435417",
+        "timestamp": "2014-01-21T18:16:10Z",
+        "name": "Ясли-Сад №2 Батыр",
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.20486549999998,
+          49.88778469999998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2631435426",
+        "timestamp": "2014-01-21T18:16:10Z",
+        "name": "Ясли-Сад  Акбота",
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.20482629999998,
+          49.8865829
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2631464964",
+        "timestamp": "2014-01-21T18:34:50Z",
+        "name": "Детский-сад",
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.19172639999998,
+          49.89887539999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2685872485",
+        "timestamp": "2014-02-22T22:48:28Z",
+        "name": null,
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.268515599999986,
+          46.6007059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2692897111",
+        "timestamp": "2014-02-27T16:37:25Z",
+        "name": "Аяулым",
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.46405289999998,
+          51.1303845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2898688611",
+        "timestamp": "2014-06-04T07:45:37Z",
+        "name": "Бахыт",
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.84743389999998,
+          49.8134105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2920142899",
+        "timestamp": "2014-06-17T11:19:12Z",
+        "name": null,
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.97868449999999,
+          51.07707709999998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2926245375",
+        "timestamp": "2014-06-21T16:14:54Z",
+        "name": "Ясли сад \"Конжик\"",
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.129032399999986,
+          50.315272599999986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2997576588",
+        "timestamp": "2014-08-05T12:21:16Z",
+        "name": "Детский сад \"Еркетай",
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.53910339999997,
+          53.534616499999984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "3019850194",
+        "timestamp": "2014-09-15T22:02:27Z",
+        "name": "Детский сад \"Little people\"",
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.37581979999999,
+          53.28703749999998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "3023414918",
+        "timestamp": "2015-10-18T16:35:15Z",
+        "name": "Детский сад, ясли",
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.60508649999998,
+          49.8968517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "3140419400",
+        "timestamp": "2014-10-20T18:41:01Z",
+        "name": null,
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.578983,
+          54.16760749999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "3198783447",
+        "timestamp": "2014-11-21T16:11:50Z",
+        "name": "Детский сад",
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.86200039999999,
+          43.23270509999998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "3210785591",
+        "timestamp": "2014-11-29T14:41:25Z",
+        "name": "Саранда",
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.4561847,
+          51.10146049999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "3216045335",
+        "timestamp": "2014-12-02T17:06:31Z",
+        "name": "детсад",
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.197322,
+          50.264803399999984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "3216045336",
+        "timestamp": "2014-12-02T17:06:31Z",
+        "name": "детсад",
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.1988136,
+          50.264802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "3239630581",
+        "timestamp": "2016-04-07T09:44:55Z",
+        "name": "Детский сад №40",
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.21948719999999,
+          50.278094299999985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "3249607072",
+        "timestamp": "2014-12-23T17:14:53Z",
+        "name": "частный детсад",
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.18170569999999,
+          50.27173879999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "3292349794",
+        "timestamp": "2015-01-16T13:39:54Z",
+        "name": "Детсад № 12  \"Инжегуль\"",
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.170591,
+          50.2835002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "3362829677",
+        "timestamp": "2015-02-21T05:36:11Z",
+        "name": "Детский сад",
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.846680699999986,
+          43.3384035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "3362831730",
+        "timestamp": "2015-02-21T05:36:38Z",
+        "name": "Детский сад",
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.844872899999984,
+          43.3387897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "3362832885",
+        "timestamp": "2015-02-21T05:37:08Z",
+        "name": "Детский сад",
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.841300199999985,
+          43.3420787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "3362878293",
+        "timestamp": "2015-02-21T06:44:15Z",
+        "name": "Детский сад",
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.85066109999999,
+          43.337049599999986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "3387820081",
+        "timestamp": "2015-03-07T15:34:33Z",
+        "name": "Детсад \"Жайна\"",
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.19380679999998,
+          50.264036699999984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "3446149738",
+        "timestamp": "2015-04-09T09:44:29Z",
+        "name": "Садики на Жайлоо  Каркыра",
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.16376239999997,
+          42.7453084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "3551365362",
+        "timestamp": "2015-05-27T17:00:48Z",
+        "name": "22",
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.288691,
+          45.620475099999986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "3551365363",
+        "timestamp": "2015-05-27T17:00:48Z",
+        "name": "25",
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.29146029999998,
+          45.61518749999998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "3718344936",
+        "timestamp": "2015-08-28T10:18:50Z",
+        "name": null,
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.45256629999999,
+          51.6359749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "3885925602",
+        "timestamp": "2015-12-10T12:01:21Z",
+        "name": null,
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.05343629999999,
+          43.3222156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "4044035810",
+        "timestamp": "2016-03-06T17:00:45Z",
+        "name": "детский сад \"Қамқор\" балаб",
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.49671609999999,
+          43.5109219
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "4069494198",
+        "timestamp": "2016-03-20T07:04:51Z",
+        "name": "Baby club",
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.3852929,
+          51.22760009999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "4104623503",
+        "timestamp": "2016-04-07T09:55:54Z",
+        "name": "Акжаркын",
+        "type": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0801906,
+          49.91402669999999
+        ]
+      }
+    }
+  ]
+}

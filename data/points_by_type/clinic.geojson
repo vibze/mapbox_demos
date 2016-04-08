@@ -1,0 +1,1115 @@
+{
+  "type": "FeatureCollection",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "614711166",
+        "timestamp": "2016-04-06T12:46:41Z",
+        "name": "Поликлиника №3",
+        "type": "clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.21827509999999,
+          50.390666399999986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1785617014",
+        "timestamp": "2013-09-27T05:56:19Z",
+        "name": "Сара комплекс",
+        "type": "clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.2608746,
+          43.3014596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1785627362",
+        "timestamp": "2013-08-26T17:32:31Z",
+        "name": "Клиника им. Х.А.Яссауи",
+        "type": "clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.30116669999998,
+          43.28904339999998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1891238111",
+        "timestamp": "2015-06-30T17:11:07Z",
+        "name": "КДЛ \"Олимп\"",
+        "type": "clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.37708209999998,
+          53.28665569999998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1949486850",
+        "timestamp": "2012-11-24T07:37:36Z",
+        "name": "Медицинский Центр \"Жемчуж",
+        "type": "clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.62685769999998,
+          53.202500599999986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2029510226",
+        "timestamp": "2012-11-24T07:42:19Z",
+        "name": "медцентр Коктем",
+        "type": "clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.623342399999984,
+          53.22051359999998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2057424478",
+        "timestamp": "2013-04-10T07:37:53Z",
+        "name": "Центр Здоровья",
+        "type": "clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.12913289999999,
+          52.96038679999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2463694564",
+        "timestamp": "2013-09-19T10:21:31Z",
+        "name": "Центр крови города Туркес",
+        "type": "clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.262347,
+          43.3067549
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2471907756",
+        "timestamp": "2013-09-27T04:13:57Z",
+        "name": "Инвиво лаборатория",
+        "type": "clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.264494,
+          43.3046146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2471932958",
+        "timestamp": "2013-09-26T09:45:41Z",
+        "name": "Акмарал клиника",
+        "type": "clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.261846,
+          43.304467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2471932965",
+        "timestamp": "2013-09-27T04:13:57Z",
+        "name": "Взрослая поликлиника",
+        "type": "clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.2643742,
+          43.30460759999998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2473137307",
+        "timestamp": "2013-09-27T05:56:04Z",
+        "name": "Лаборатория санатории Жум",
+        "type": "clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.2517214,
+          43.3036821
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2473137312",
+        "timestamp": "2013-09-27T05:56:04Z",
+        "name": "Нуркен ата",
+        "type": "clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.25652129999999,
+          43.3010648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2481986198",
+        "timestamp": "2013-10-04T06:42:46Z",
+        "name": "Ветлаборатория",
+        "type": "clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.24573209999998,
+          43.3046746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2482105890",
+        "timestamp": "2013-10-04T09:31:19Z",
+        "name": "Детский реабилитационный",
+        "type": "clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.24369929999999,
+          43.30341829999998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2483361880",
+        "timestamp": "2013-10-05T09:54:26Z",
+        "name": "Медицинский центр",
+        "type": "clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.24349879999998,
+          43.301068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2484564968",
+        "timestamp": "2013-10-06T04:54:34Z",
+        "name": "Отдел ветеренарии",
+        "type": "clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.24501909999996,
+          43.305420799999986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2484569745",
+        "timestamp": "2013-10-06T05:26:54Z",
+        "name": "СПИД центр",
+        "type": "clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.23825689999998,
+          43.301465499999985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2484569750",
+        "timestamp": "2013-10-06T05:26:54Z",
+        "name": "УЗИ",
+        "type": "clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.23626189999999,
+          43.3008918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2488970531",
+        "timestamp": "2013-10-09T04:23:29Z",
+        "name": "Шарипа процедурный кабине",
+        "type": "clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.22406919999999,
+          43.29841059999998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2488982280",
+        "timestamp": "2013-10-09T04:52:15Z",
+        "name": "Женская консультация",
+        "type": "clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.2314931,
+          43.300036699999986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2489015682",
+        "timestamp": "2013-10-09T06:01:46Z",
+        "name": "Санитарно-Эпидемилогичес",
+        "type": "clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.22613889999998,
+          43.3019565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2493635211",
+        "timestamp": "2013-10-12T11:28:25Z",
+        "name": "Детская больница",
+        "type": "clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.2040606,
+          43.278839699999985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2639757423",
+        "timestamp": "2014-01-27T15:26:33Z",
+        "name": "Детская поликлиника №2",
+        "type": "clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.41796809999998,
+          51.186608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2639757424",
+        "timestamp": "2014-01-27T15:26:34Z",
+        "name": "Диасорб",
+        "type": "clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.41590229999998,
+          51.1868004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2752437575",
+        "timestamp": "2014-03-29T19:51:39Z",
+        "name": "Детская стоматологическа",
+        "type": "clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.365706299999985,
+          51.21384839999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2893941491",
+        "timestamp": "2014-10-16T10:20:13Z",
+        "name": "Актобе",
+        "type": "clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.199209899999985,
+          50.2903665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2912919311",
+        "timestamp": "2014-06-12T16:43:31Z",
+        "name": "Городская поликлиника №21",
+        "type": "clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.92402069999999,
+          43.3561417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2913267833",
+        "timestamp": "2016-02-26T12:10:41Z",
+        "name": "Клиника РАХАТ",
+        "type": "clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.90948989999998,
+          43.239482399999986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2927572629",
+        "timestamp": "2014-06-22T14:58:41Z",
+        "name": "Детская городская поликли",
+        "type": "clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.881235,
+          43.198159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "3025001869",
+        "timestamp": "2014-08-18T16:51:42Z",
+        "name": "Клиника Асем",
+        "type": "clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.219377399999985,
+          50.301136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "3025001870",
+        "timestamp": "2014-08-18T16:51:42Z",
+        "name": "Западно-Казахстанский фил",
+        "type": "clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.219348199999985,
+          50.30084939999998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "3074139010",
+        "timestamp": "2014-09-12T22:19:26Z",
+        "name": "Мед. центр \"Medicus\"",
+        "type": "clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.38413839999998,
+          53.3015709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "3077034633",
+        "timestamp": "2014-09-14T16:29:09Z",
+        "name": "Менсулу Салон красоты",
+        "type": "clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.24197709999999,
+          50.4250814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "3079263813",
+        "timestamp": "2015-07-06T19:21:27Z",
+        "name": "Детская поликлиника",
+        "type": "clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.38490679999998,
+          53.29147039999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "3145454316",
+        "timestamp": "2014-10-23T13:21:13Z",
+        "name": "Областной кожно-венеролог",
+        "type": "clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.22731129999998,
+          50.28767959999998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "3170310464",
+        "timestamp": "2014-11-06T13:35:36Z",
+        "name": "Станция скорой помощи",
+        "type": "clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.14816409999999,
+          50.2953949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "3191828663",
+        "timestamp": "2014-11-17T17:44:29Z",
+        "name": "Interteach",
+        "type": "clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.95250919999997,
+          43.225114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "3196966697",
+        "timestamp": "2015-04-01T09:05:49Z",
+        "name": "Медцентр \"Доверие\"",
+        "type": "clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.228420499999984,
+          50.280844499999986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "3196966698",
+        "timestamp": "2015-01-25T19:50:23Z",
+        "name": "Медцентр \"Асар\"",
+        "type": "clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.228076499999986,
+          50.28087219999998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "3201933661",
+        "timestamp": "2014-11-23T17:56:50Z",
+        "name": "Олимп",
+        "type": "clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.59806489999998,
+          49.9719112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "3204094110",
+        "timestamp": "2015-02-15T10:47:26Z",
+        "name": "Врачебная амбулатория",
+        "type": "clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.0183767,
+          51.677617799999986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "3221987835",
+        "timestamp": "2014-12-06T17:40:30Z",
+        "name": "Поликлиника",
+        "type": "clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.79271,
+          52.831858699999984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "3224400429",
+        "timestamp": "2014-12-08T05:28:03Z",
+        "name": "Детская поликлиника №1",
+        "type": "clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.93291659999998,
+          43.2608582
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "3237914860",
+        "timestamp": "2014-12-16T13:43:24Z",
+        "name": "Детская поликлиника",
+        "type": "clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.16533059999998,
+          50.296409899999986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "3289879222",
+        "timestamp": "2015-01-15T12:02:34Z",
+        "name": "\"Олимп\"",
+        "type": "clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.3919491,
+          51.16761169999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "3295128861",
+        "timestamp": "2015-01-17T19:58:40Z",
+        "name": "Детская поликлиника",
+        "type": "clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.38565159999999,
+          53.300856899999985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "3302339317",
+        "timestamp": "2015-01-21T12:29:20Z",
+        "name": "Достар Мед",
+        "type": "clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.62152909999999,
+          43.2017593
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "3310340620",
+        "timestamp": "2015-07-20T10:12:53Z",
+        "name": "ГКП \"Городская поликлиник",
+        "type": "clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.175848899999984,
+          50.287696699999984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "3313753963",
+        "timestamp": "2015-01-27T07:59:13Z",
+        "name": "Ветеренар",
+        "type": "clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.44864669999998,
+          51.1568212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "3398344649",
+        "timestamp": "2015-03-14T16:10:05Z",
+        "name": "Клиника \"Доктор Дон\"",
+        "type": "clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.194277499999984,
+          50.27231049999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "3467511816",
+        "timestamp": "2015-04-20T10:42:24Z",
+        "name": "Медицинский Центр \"ДАРИГА\"",
+        "type": "clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.95705209999998,
+          43.2564525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "3470766767",
+        "timestamp": "2015-04-27T12:25:57Z",
+        "name": "Лормед",
+        "type": "clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.12938409999998,
+          54.8617145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "3514052274",
+        "timestamp": "2015-05-13T06:56:34Z",
+        "name": "Invivo",
+        "type": "clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.423768,
+          51.245111399999985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "3539481688",
+        "timestamp": "2015-05-23T18:06:41Z",
+        "name": null,
+        "type": "clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.367048099999984,
+          51.52425129999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "3700834685",
+        "timestamp": "2015-08-17T10:43:41Z",
+        "name": "СВА №9",
+        "type": "clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.49559539999998,
+          42.38213179999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "3726964886",
+        "timestamp": "2015-09-03T04:13:04Z",
+        "name": "Дамсинская врачебная амбу",
+        "type": "clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.03234939999999,
+          51.67316549999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "3745026821",
+        "timestamp": "2015-09-16T05:40:59Z",
+        "name": "Клиника психотерапии",
+        "type": "clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.163941499999986,
+          43.631959
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "3781916503",
+        "timestamp": "2015-10-11T11:38:45Z",
+        "name": "Лечебно-диагностический ц",
+        "type": "clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.90434869999997,
+          52.35489459999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "3801735233",
+        "timestamp": "2015-10-25T06:31:21Z",
+        "name": "Городская поликлиника №1",
+        "type": "clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.4231194,
+          51.17265779999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "3947839107",
+        "timestamp": "2016-01-15T12:03:30Z",
+        "name": null,
+        "type": "clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.72029969999998,
+          50.156835399999984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "3951269398",
+        "timestamp": "2016-01-17T08:04:08Z",
+        "name": "Медпункт",
+        "type": "clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.44785029999998,
+          49.62255479999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "4034692240",
+        "timestamp": "2016-03-01T13:41:15Z",
+        "name": "Ophtalmology Clinic Medik-Service",
+        "type": "clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.64671,
+          42.340173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "4054092825",
+        "timestamp": "2016-03-11T07:21:40Z",
+        "name": "Медицинский центр",
+        "type": "clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.356840699999985,
+          51.237551199999984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "4080208889",
+        "timestamp": "2016-03-26T16:56:16Z",
+        "name": "ХАК",
+        "type": "clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.85585339999999,
+          43.244941
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "4100349492",
+        "timestamp": "2016-04-05T18:43:08Z",
+        "name": "РЦРЗ",
+        "type": "clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.3563754,
+          53.279588699999984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "4100355892",
+        "timestamp": "2016-04-05T18:43:08Z",
+        "name": "Онкологический диспансер",
+        "type": "clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.35683249999998,
+          53.27830119999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "4100373890",
+        "timestamp": "2016-04-05T18:43:07Z",
+        "name": "Спецполиклиника",
+        "type": "clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.36668489999998,
+          53.28263779999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "4105154545",
+        "timestamp": "2016-04-07T13:44:59Z",
+        "name": "Поликлиника",
+        "type": "clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.55971669999998,
+          49.3369269
+        ]
+      }
+    }
+  ]
+}

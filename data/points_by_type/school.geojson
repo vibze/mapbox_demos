@@ -1,0 +1,6011 @@
+{
+  "type": "FeatureCollection",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "418999466",
+        "timestamp": "2009-06-12T05:53:12Z",
+        "name": "№7",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.01799569999999,
+          43.4177237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "418999467",
+        "timestamp": "2009-06-12T05:53:12Z",
+        "name": "№38",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0184162,
+          43.4187898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "435360447",
+        "timestamp": "2010-04-28T12:16:57Z",
+        "name": "№13",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.01529419999999,
+          43.4121868
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "453247472",
+        "timestamp": "2014-05-12T11:28:29Z",
+        "name": "Мирас",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.4878091,
+          51.1521854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "457303316",
+        "timestamp": "2011-08-24T09:18:55Z",
+        "name": null,
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.05925539999998,
+          43.406131899999984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "495982610",
+        "timestamp": "2010-02-28T16:12:44Z",
+        "name": "Средняя школа №2 им. Комар",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.18925519999998,
+          50.4646479
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "497151344",
+        "timestamp": "2010-01-16T15:14:02Z",
+        "name": "Школа-Лицей №7",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.23176919999999,
+          50.3945545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "498838947",
+        "timestamp": "2009-11-12T10:24:33Z",
+        "name": "Школа №18",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.22114639999997,
+          50.448902
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "507238037",
+        "timestamp": "2009-09-25T16:31:00Z",
+        "name": "Гимназия 134",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.90015089999999,
+          43.2419209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "523090328",
+        "timestamp": "2013-05-31T14:46:00Z",
+        "name": "Школа №1",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.55363709999999,
+          50.75156419999998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "537551374",
+        "timestamp": "2009-10-21T10:08:34Z",
+        "name": "СШ №11",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.290054,
+          51.716915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "537551918",
+        "timestamp": "2009-10-21T10:08:55Z",
+        "name": "СШ №9",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.289947,
+          51.718761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "537553428",
+        "timestamp": "2009-10-21T10:09:54Z",
+        "name": "СШ №18",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.299476,
+          51.722538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "537564382",
+        "timestamp": "2009-10-21T12:28:12Z",
+        "name": "СШ №1",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.31476639999997,
+          51.73167989999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "537566107",
+        "timestamp": "2009-10-21T12:28:42Z",
+        "name": "СШ №7",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.31874889999999,
+          51.735927099999984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "537581428",
+        "timestamp": "2013-04-06T21:11:36Z",
+        "name": "СШ №24",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.32507909999998,
+          51.7234256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "537595044",
+        "timestamp": "2009-10-21T12:24:13Z",
+        "name": "СШ №10",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.33318569999999,
+          51.7260819
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "537599733",
+        "timestamp": "2009-10-21T10:54:15Z",
+        "name": "СШ №5",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.334388,
+          51.733352
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "537600009",
+        "timestamp": "2009-10-21T12:22:06Z",
+        "name": "СШ №6",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3254351,
+          51.7348586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "540378366",
+        "timestamp": "2009-11-09T12:41:12Z",
+        "name": "Сш29",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.23168659999999,
+          50.42772029999998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "540381007",
+        "timestamp": "2009-11-10T09:11:57Z",
+        "name": "СШ №6",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.25019139999998,
+          50.4068338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "540381009",
+        "timestamp": "2009-10-27T12:13:47Z",
+        "name": "СШ №1",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.25283889999999,
+          50.40704869999998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "540381158",
+        "timestamp": "2013-07-16T02:34:42Z",
+        "name": "Школа №4",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.252053,
+          50.4163794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "550244056",
+        "timestamp": "2011-11-30T08:30:30Z",
+        "name": "СШ №36",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2708474,
+          50.41262519999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "550254270",
+        "timestamp": "2009-12-21T12:37:04Z",
+        "name": "СШ №16",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.26531409999998,
+          50.413518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "550256995",
+        "timestamp": "2011-11-30T08:27:00Z",
+        "name": "СШ №28",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.26208119999998,
+          50.4177315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "553313574",
+        "timestamp": "2009-11-10T11:57:43Z",
+        "name": "СШ №12",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.299448,
+          50.40535079999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "559921850",
+        "timestamp": "2010-02-28T16:12:20Z",
+        "name": "Школа 26",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.20329949999999,
+          50.4635898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "559945633",
+        "timestamp": "2010-01-16T15:23:27Z",
+        "name": "Школа для гхухонемых дете",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.20821429999997,
+          50.4012247
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "561039109",
+        "timestamp": "2009-11-12T04:14:58Z",
+        "name": "Школа №14",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.67445729999999,
+          49.92716759999998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "567332638",
+        "timestamp": "2009-11-20T09:49:44Z",
+        "name": "35",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.23857369999998,
+          50.3797805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "612757094",
+        "timestamp": "2011-01-12T07:30:10Z",
+        "name": "Bidaik school",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.72863279999999,
+          54.032484199999985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "612804375",
+        "timestamp": "2010-01-13T13:46:47Z",
+        "name": "школа 1",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.51806889999999,
+          50.123535099999984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "614682452",
+        "timestamp": "2010-01-16T15:10:53Z",
+        "name": "СШ №20",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.24830819999997,
+          50.3814138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "614682909",
+        "timestamp": "2010-01-16T15:11:46Z",
+        "name": "СШ №27",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2331376,
+          50.38608629999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "614683081",
+        "timestamp": "2010-01-16T15:12:26Z",
+        "name": "Школа-гимназия №5",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2375901,
+          50.3866062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "614683306",
+        "timestamp": "2010-01-16T15:13:45Z",
+        "name": "СШ №30",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2355516,
+          50.390204299999986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "614700739",
+        "timestamp": "2010-01-16T15:29:14Z",
+        "name": "СШ №19",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2315879,
+          50.37169449999998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "614702914",
+        "timestamp": "2010-01-16T15:31:18Z",
+        "name": "СШ №32",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2163529,
+          50.3915484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "614703393",
+        "timestamp": "2010-01-16T16:02:59Z",
+        "name": "СШ №10",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.21481429999999,
+          50.3951595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "614704090",
+        "timestamp": "2016-04-06T11:56:50Z",
+        "name": "Средняя Школа #22",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.21538729999999,
+          50.39830589999998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "614714067",
+        "timestamp": "2013-01-03T05:17:16Z",
+        "name": "СШ №11",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2087828,
+          50.4035946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "622598306",
+        "timestamp": "2013-12-30T00:03:59Z",
+        "name": "СШ им. Горького",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.61097189999998,
+          47.08578929999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "636249994",
+        "timestamp": "2013-12-30T18:01:09Z",
+        "name": "Жас дарын",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.93954739999997,
+          52.28268289999998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "636413775",
+        "timestamp": "2015-06-21T10:53:21Z",
+        "name": "Детская художественная шк",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.94656409999999,
+          52.295067799999984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "636880538",
+        "timestamp": "2010-11-07T15:42:48Z",
+        "name": null,
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.49212619999999,
+          49.87723909999998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "648896565",
+        "timestamp": "2011-05-10T13:13:43Z",
+        "name": "18-я школа",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.08090329999997,
+          49.89577889999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "652309294",
+        "timestamp": "2010-02-24T05:23:02Z",
+        "name": "Президентская школа",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.24398259999997,
+          50.43474589999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "676804804",
+        "timestamp": "2010-12-02T14:49:58Z",
+        "name": "Интернат для глухонемых",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.08423849999998,
+          49.8976448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "680034674",
+        "timestamp": "2010-04-01T17:51:08Z",
+        "name": "СШ №32",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.08672919999998,
+          49.903704799999986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "680046603",
+        "timestamp": "2010-04-01T18:10:22Z",
+        "name": "Профессиональная школа №2",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0948725,
+          49.90284269999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "680046617",
+        "timestamp": "2010-04-01T18:10:23Z",
+        "name": "Профессиональная школа №2",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0971532,
+          49.90272789999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "680056605",
+        "timestamp": "2010-04-01T18:23:50Z",
+        "name": "СШ №20",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1010863,
+          49.89968109999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "686806079",
+        "timestamp": "2010-04-06T17:48:07Z",
+        "name": "Суворовское училище",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.11373109999998,
+          49.81707429999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "686806082",
+        "timestamp": "2010-04-06T17:48:07Z",
+        "name": "СШ №62",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.11563219999998,
+          49.81606269999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "686827333",
+        "timestamp": "2010-04-06T18:17:22Z",
+        "name": "Школа №88",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1097921,
+          49.8220347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "691229551",
+        "timestamp": "2010-05-23T14:53:42Z",
+        "name": "СШ №16",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1336069,
+          49.77273119999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "694303799",
+        "timestamp": "2010-11-13T14:40:54Z",
+        "name": "СШ №6",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.06659369999998,
+          49.81044769999998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "695796782",
+        "timestamp": "2010-04-13T19:59:32Z",
+        "name": "Гимназия №38",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0992963,
+          49.807244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "695809838",
+        "timestamp": "2014-01-21T17:02:01Z",
+        "name": "СШ № 54",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.21338089999998,
+          49.896584799999985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "703325384",
+        "timestamp": "2010-04-21T16:12:31Z",
+        "name": "Лицей №93",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.09644909999997,
+          49.8078002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "703831632",
+        "timestamp": "2011-07-12T08:46:05Z",
+        "name": "Лицей технический",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.10179689999998,
+          49.821492099999986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "710704041",
+        "timestamp": "2010-04-28T17:02:32Z",
+        "name": "Школа-интернат №5",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.19640469999999,
+          49.8739253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "710908000",
+        "timestamp": "2010-04-28T21:00:48Z",
+        "name": "СШ №30",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.07300089999998,
+          49.895929899999985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "710915361",
+        "timestamp": "2010-04-28T21:21:41Z",
+        "name": "СШ №23",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.15151809999998,
+          49.7880163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "710915751",
+        "timestamp": "2015-09-28T05:21:42Z",
+        "name": "СШ №39",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.15426689999998,
+          49.786235799999986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "726013355",
+        "timestamp": "2011-07-05T08:35:09Z",
+        "name": "СШ №63",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.09198749999999,
+          49.8121027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "735421058",
+        "timestamp": "2010-05-15T19:11:19Z",
+        "name": "СШ №3",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.180916799999984,
+          52.1865781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "740418175",
+        "timestamp": "2010-05-20T07:26:08Z",
+        "name": "Школа №49 \"Мурагер\"",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.10685179999999,
+          49.8125158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "740954297",
+        "timestamp": "2010-05-20T13:36:19Z",
+        "name": "Казахская школа-интернат",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.09980579999998,
+          49.80830739999998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "757830513",
+        "timestamp": "2010-05-30T04:48:58Z",
+        "name": "Гимназия N1",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0838329,
+          49.81307889999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "778095074",
+        "timestamp": "2010-06-20T08:39:25Z",
+        "name": "Школа №5",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.15288019999998,
+          49.78323309999998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "798146518",
+        "timestamp": "2010-07-01T10:44:03Z",
+        "name": "школа-лицей №1",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.37284949999999,
+          51.82875579999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "823473235",
+        "timestamp": "2010-07-18T17:27:59Z",
+        "name": "Гимназия №97",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.08409839999999,
+          49.796216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "823473237",
+        "timestamp": "2010-07-18T17:28:00Z",
+        "name": "СШ №48",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0851123,
+          49.7967038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "823493669",
+        "timestamp": "2010-07-18T18:06:46Z",
+        "name": "Казахстанско-американска",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.08512779999998,
+          49.790796399999984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "852906364",
+        "timestamp": "2010-08-10T11:12:58Z",
+        "name": "СШ №3",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.09633059999999,
+          49.81532519999998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "950327689",
+        "timestamp": "2010-10-15T15:31:06Z",
+        "name": "Средняя Школа 25",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.26639149999998,
+          50.438688699999986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "950337361",
+        "timestamp": "2010-10-15T15:38:18Z",
+        "name": "CШ 42",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.26243449999998,
+          50.42555549999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "966826005",
+        "timestamp": "2010-10-27T13:59:16Z",
+        "name": "Гимназия №92",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.09102139999999,
+          49.804871599999984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "980245805",
+        "timestamp": "2010-11-07T09:20:14Z",
+        "name": "Школа №8",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.56807919999999,
+          49.97703389999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "980253506",
+        "timestamp": "2010-11-07T09:39:23Z",
+        "name": "Музыкальная школа №1",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.62806019999998,
+          49.9528749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "984465153",
+        "timestamp": "2010-11-10T16:23:16Z",
+        "name": "Школа каратэ",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.4391506,
+          51.1529927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "988038989",
+        "timestamp": "2010-11-13T18:57:09Z",
+        "name": "Школа №21",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0631907,
+          49.813798599999984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1001112955",
+        "timestamp": "2010-11-23T17:29:44Z",
+        "name": null,
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.8975718,
+          43.22757029999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1006569882",
+        "timestamp": "2010-11-27T17:16:32Z",
+        "name": null,
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.60828439999998,
+          53.18977249999998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1057007021",
+        "timestamp": "2011-03-12T10:52:53Z",
+        "name": null,
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.44407949999999,
+          51.152899799999986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1081222528",
+        "timestamp": "2011-01-03T23:20:04Z",
+        "name": "Школа 17",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.96608079999999,
+          43.31415529999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1127530890",
+        "timestamp": "2011-01-30T08:00:05Z",
+        "name": "СШ N3",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.9830569,
+          46.8377456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1127530901",
+        "timestamp": "2011-01-30T07:53:23Z",
+        "name": "Лицей N4",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.9827917,
+          46.8381466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1149597040",
+        "timestamp": "2011-02-12T21:02:44Z",
+        "name": "Новосельская средняя школ",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.03678729999999,
+          53.199337
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1184554607",
+        "timestamp": "2011-03-03T16:29:07Z",
+        "name": null,
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9802008,
+          43.2813677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1184572637",
+        "timestamp": "2011-03-03T16:55:35Z",
+        "name": "СШ99 им. Гагарина.",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.98730579999999,
+          43.2772523
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1185590841",
+        "timestamp": "2011-03-04T07:50:44Z",
+        "name": "Школа Болашак",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.9687169,
+          46.831233199999986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1231015097",
+        "timestamp": "2011-04-03T15:21:40Z",
+        "name": "142",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.99564059999999,
+          43.3620479
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1259819391",
+        "timestamp": "2011-04-25T16:48:31Z",
+        "name": "Школа-интернат",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0687129,
+          49.798056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1269256454",
+        "timestamp": "2011-05-01T17:18:56Z",
+        "name": "СШ N4",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.983346,
+          46.8437838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1270968448",
+        "timestamp": "2011-05-03T09:36:20Z",
+        "name": "СШ №24",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.16158389999998,
+          50.29617419999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1274614776",
+        "timestamp": "2011-11-26T03:57:31Z",
+        "name": "СШ №33",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0548327,
+          49.9054884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1275668702",
+        "timestamp": "2011-05-07T14:54:00Z",
+        "name": "№22",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.47520079999997,
+          51.1529756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1300400817",
+        "timestamp": "2013-05-24T06:18:07Z",
+        "name": null,
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.25641869999997,
+          49.7425669
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1323634483",
+        "timestamp": "2014-03-13T07:57:34Z",
+        "name": "Средняя школа №7",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          65.5339378,
+          44.8340984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1334402037",
+        "timestamp": "2011-06-22T10:31:01Z",
+        "name": "школа №6",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.25088419999999,
+          50.41051489999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1350071310",
+        "timestamp": "2011-07-05T08:35:07Z",
+        "name": "СШ №78",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.05198819999997,
+          49.7949039
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1350185459",
+        "timestamp": "2011-07-05T11:19:18Z",
+        "name": "ГУ \"Средняя общеобразоват",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.056225,
+          49.8054709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1350472042",
+        "timestamp": "2014-05-22T05:17:41Z",
+        "name": "СШ №1 им. Димитрова",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.69225679999999,
+          53.6384593
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1351027414",
+        "timestamp": "2011-07-06T06:39:49Z",
+        "name": "Карагандинская областная",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.05756729999999,
+          49.796742299999984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1351029471",
+        "timestamp": "2011-07-06T06:41:37Z",
+        "name": "Профессиональная школа №1",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.05260889999998,
+          49.793360599999986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1352201994",
+        "timestamp": "2011-07-07T06:57:34Z",
+        "name": "СШ №64",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0686251,
+          49.7623243
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1360081996",
+        "timestamp": "2011-07-13T04:31:32Z",
+        "name": "сш №31",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2562936,
+          50.4053324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1370720150",
+        "timestamp": "2015-02-23T11:47:30Z",
+        "name": "СШ №82",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.197116,
+          49.8675054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1424007486",
+        "timestamp": "2011-09-05T12:50:13Z",
+        "name": "Средняя школа №21",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.7002343,
+          47.8012352
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1424007496",
+        "timestamp": "2012-01-01T17:52:06Z",
+        "name": "Средняя школа №3",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.71921459999999,
+          47.80646439999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1424007498",
+        "timestamp": "2011-09-05T12:50:13Z",
+        "name": "Средняя школа №7",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.721911,
+          47.806605699999984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1430703709",
+        "timestamp": "2011-09-12T06:10:25Z",
+        "name": "Покровская СШ",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.34773949999999,
+          54.2895733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1433617299",
+        "timestamp": "2013-09-14T13:54:56Z",
+        "name": "Средняя школа №23",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.26917,
+          50.4302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1433617370",
+        "timestamp": "2012-06-12T06:30:48Z",
+        "name": "Школа 37",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.25835,
+          50.41708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1455802651",
+        "timestamp": "2011-10-05T10:31:13Z",
+        "name": "СШ",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.239696,
+          43.5836852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1456146576",
+        "timestamp": "2011-10-05T17:05:32Z",
+        "name": "Школа 135",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.900629,
+          43.24187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1490121753",
+        "timestamp": "2013-02-16T14:33:17Z",
+        "name": "СШ Самал",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.1839024,
+          41.4760515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1498054088",
+        "timestamp": "2011-11-11T06:00:54Z",
+        "name": "СШ №26",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.1357573,
+          50.3145347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1503077322",
+        "timestamp": "2011-11-14T17:40:24Z",
+        "name": "Школа №3",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.65090219999998,
+          48.5702366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1503077323",
+        "timestamp": "2011-11-14T17:40:24Z",
+        "name": "Школа №4",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.64738449999999,
+          48.564673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1506284774",
+        "timestamp": "2011-11-17T14:25:12Z",
+        "name": null,
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.7594231,
+          42.3754098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1507216608",
+        "timestamp": "2012-12-08T18:46:51Z",
+        "name": "Школа №17",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.85949039999998,
+          42.1549475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1507261739",
+        "timestamp": "2014-06-24T13:22:24Z",
+        "name": "СШ. №6",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.23125919999998,
+          50.2822818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1515621220",
+        "timestamp": "2011-12-26T18:50:31Z",
+        "name": "Школа-Интернат №4",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.08526689999998,
+          49.910749299999985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1517731370",
+        "timestamp": "2011-11-26T13:19:58Z",
+        "name": "ОСШ №60",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.06674139999998,
+          49.8838153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1573666787",
+        "timestamp": "2012-01-02T06:01:57Z",
+        "name": "ПТШ №1",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.19695269999998,
+          49.8792625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1588405107",
+        "timestamp": "2012-01-13T15:14:37Z",
+        "name": "СШ 11",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.9931358,
+          50.0598423
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1594681218",
+        "timestamp": "2012-01-17T13:27:52Z",
+        "name": "Казахская СШ N5",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.00042469999998,
+          50.05718739999998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1617878287",
+        "timestamp": "2012-02-04T16:33:19Z",
+        "name": "Музыкальная школа N2",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.9846305,
+          50.056653099999984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1629863287",
+        "timestamp": "2013-12-30T18:01:45Z",
+        "name": "Средняя шклола 7",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1414249,
+          43.3592359
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1644079513",
+        "timestamp": "2012-02-23T11:14:24Z",
+        "name": "Музыкальная школа",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.95764229999999,
+          43.2603738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1657901489",
+        "timestamp": "2012-03-03T19:01:45Z",
+        "name": "Автошкола \"Гермес\"",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.14451259999998,
+          49.77182279999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1660567621",
+        "timestamp": "2012-03-05T13:57:40Z",
+        "name": "Школа-гимназия №10",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.60115179999997,
+          49.956775399999984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1681511152",
+        "timestamp": "2012-03-19T12:20:19Z",
+        "name": "Школа-интернат",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.50658439999999,
+          52.5529337
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1685727124",
+        "timestamp": "2014-09-17T09:09:26Z",
+        "name": "Международный университе",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.29567,
+          42.84693569999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1688489758",
+        "timestamp": "2012-03-24T12:22:19Z",
+        "name": "Школа №7",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.190890299999985,
+          52.17804379999998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1688502382",
+        "timestamp": "2012-03-24T12:35:06Z",
+        "name": null,
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.19590859999998,
+          52.18321969999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1688541175",
+        "timestamp": "2012-03-24T13:01:13Z",
+        "name": "Школа №9",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.19841989999998,
+          52.18769359999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1688609574",
+        "timestamp": "2012-03-25T15:53:42Z",
+        "name": "Школа №10",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.198195,
+          52.1960856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1694566939",
+        "timestamp": "2012-03-28T10:49:36Z",
+        "name": "Школа №6",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.6015511,
+          49.698659499999984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1695960461",
+        "timestamp": "2012-03-29T15:45:38Z",
+        "name": "Аркалыкская Музыкальная Ш",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          66.91662059999999,
+          50.2540366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1695960541",
+        "timestamp": "2012-03-29T17:46:55Z",
+        "name": "Гимназия (разруш.)",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          66.93462659999999,
+          50.2519196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1695960595",
+        "timestamp": "2012-03-30T15:50:11Z",
+        "name": "Жас-Улан",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          66.91593459999999,
+          50.2601436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1695960604",
+        "timestamp": "2012-03-29T17:46:56Z",
+        "name": "Основная школа № 8",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          66.87908459999998,
+          50.25791959999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1695960688",
+        "timestamp": "2012-03-29T16:16:09Z",
+        "name": "Школа №7 (разруш.)",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          66.93457489999999,
+          50.2578231
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1695960695",
+        "timestamp": "2012-03-30T15:13:59Z",
+        "name": "Школа № 9 (разруш.)",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          66.9074276,
+          50.263664599999984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1695960715",
+        "timestamp": "2012-03-29T17:46:58Z",
+        "name": "Средняя школа № 1",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          66.90486359999998,
+          50.249283599999984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1695960723",
+        "timestamp": "2012-03-29T17:46:58Z",
+        "name": "Средняя школа № 10",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          66.9442696,
+          50.2560316
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1695960734",
+        "timestamp": "2012-03-29T17:46:58Z",
+        "name": "Средняя школа № 2",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          66.9086936,
+          50.25146559999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1695960749",
+        "timestamp": "2012-03-29T17:46:59Z",
+        "name": "Средняя школа № 3",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          66.8854016,
+          50.262234599999985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1695960754",
+        "timestamp": "2012-03-29T17:46:59Z",
+        "name": "Средняя школа № 4",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          66.91818459999999,
+          50.24950059999998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1695960764",
+        "timestamp": "2012-03-29T17:46:59Z",
+        "name": "Средняя школа № 5",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          66.9292166,
+          50.25306759999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1695960774",
+        "timestamp": "2012-03-29T17:46:59Z",
+        "name": "Средняя школа № 6",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          66.9284386,
+          50.2543796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1699972998",
+        "timestamp": "2013-01-17T19:48:42Z",
+        "name": "СШ №87",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.10804539999997,
+          49.78371409999998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1702089066",
+        "timestamp": "2013-12-30T18:01:48Z",
+        "name": "Училище №7",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.59554459999998,
+          49.7068122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1710907218",
+        "timestamp": "2012-04-11T03:53:16Z",
+        "name": null,
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.4844934,
+          49.6313251
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1711319916",
+        "timestamp": "2013-07-25T06:23:27Z",
+        "name": "Детская Музыкальная Школа",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.55358079999998,
+          50.7433623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1736478147",
+        "timestamp": "2012-04-30T16:40:21Z",
+        "name": "Школа-гимназия № 32",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.48458009999997,
+          51.1580018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1741072185",
+        "timestamp": "2013-09-03T17:49:15Z",
+        "name": "СШ№121",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          64.613983,
+          52.4507002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1741072219",
+        "timestamp": "2013-09-03T17:49:15Z",
+        "name": "СШ№28",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          64.6171802,
+          52.450275099999985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1748527243",
+        "timestamp": "2012-05-11T12:26:02Z",
+        "name": "Средняя школа №11 с углубл",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.223763799999986,
+          50.28507339999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1781317458",
+        "timestamp": "2015-10-03T13:35:37Z",
+        "name": "Е.Бекмаханов атындағы мек",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7652747,
+          43.687003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1781332556",
+        "timestamp": "2012-06-13T07:33:46Z",
+        "name": "№2 Балаллар Саз мектебі",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.76740919999999,
+          43.6872964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1782427731",
+        "timestamp": "2012-06-13T04:33:32Z",
+        "name": "М. Шокай",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.16964789999999,
+          40.81571259999998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1782427880",
+        "timestamp": "2012-06-13T04:30:50Z",
+        "name": "№115 школа",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.17578479999999,
+          40.80921639999998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1782466253",
+        "timestamp": "2012-06-10T11:11:22Z",
+        "name": "Гимназия 44",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.006201,
+          43.344126
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1782889067",
+        "timestamp": "2014-01-04T19:42:17Z",
+        "name": "№45 казахская классическа",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.34578179999998,
+          42.8844749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1782890097",
+        "timestamp": "2012-06-10T18:44:27Z",
+        "name": "школа-гимназия №39 им. Панф",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.34173589999997,
+          42.8835191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1783286339",
+        "timestamp": "2016-03-23T20:43:07Z",
+        "name": "средняя школа им. Жамбыла",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.1861295,
+          43.150479099999984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1783291497",
+        "timestamp": "2013-10-14T04:09:57Z",
+        "name": "СШ №31 им. Абая Кунанбаева",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.2098509,
+          43.2851509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1783291725",
+        "timestamp": "2013-10-14T04:09:57Z",
+        "name": "СШ №11 им. Жамбыл Жабаева",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.21198149999998,
+          43.284535799999986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1783384979",
+        "timestamp": "2012-06-12T17:37:44Z",
+        "name": "Школа комплекс",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.07626639999997,
+          50.3903404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1783469820",
+        "timestamp": "2012-06-11T12:09:06Z",
+        "name": null,
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.204178,
+          42.2025308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1783791865",
+        "timestamp": "2013-09-03T18:24:15Z",
+        "name": "Школа им. С. Бердыкулова",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.31664129999999,
+          43.21663049999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1783815297",
+        "timestamp": "2012-06-13T07:33:46Z",
+        "name": "Мақатаев атындағы орта ме",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.76385,
+          43.6677684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1783817954",
+        "timestamp": "2012-06-13T08:52:41Z",
+        "name": "М.Әуезов атындағы орта мек",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.75229289999999,
+          43.6810045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1783820343",
+        "timestamp": "2012-06-13T08:15:01Z",
+        "name": "Әл-Фараби атындағы орта ме",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.754921,
+          43.69453509999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1783875617",
+        "timestamp": "2012-06-11T19:56:15Z",
+        "name": "Школа им. Абая",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.30407749999998,
+          43.2226201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1783877996",
+        "timestamp": "2013-09-04T15:49:03Z",
+        "name": "Школа им. Шапырашты",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.29933209999999,
+          43.2365206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1783891625",
+        "timestamp": "2012-06-12T17:51:57Z",
+        "name": "Т.Рыскулов",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.27130929999998,
+          42.49160509999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1783891626",
+        "timestamp": "2012-06-12T17:51:34Z",
+        "name": "Шевцов",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.278004,
+          42.490845599999986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1783922071",
+        "timestamp": "2012-06-12T17:54:48Z",
+        "name": "Алгабас",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.2997535,
+          42.4965905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1784388488",
+        "timestamp": "2012-07-06T12:01:21Z",
+        "name": "Б.Момышулы",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.28742589999999,
+          42.48535649999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1784395362",
+        "timestamp": "2012-06-12T07:03:09Z",
+        "name": "Abdulla Rozybakiev",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.20404039999998,
+          44.2173712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1785512542",
+        "timestamp": "2012-06-13T02:50:35Z",
+        "name": "им.Бижанова",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.2559451,
+          43.6015049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1785598158",
+        "timestamp": "2013-09-19T10:43:15Z",
+        "name": "СШ №2 им. Хамза",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.26839469999999,
+          43.303842899999985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1785622301",
+        "timestamp": "2013-10-01T04:03:52Z",
+        "name": "Школа Дарын",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.21257339999998,
+          43.2894278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1785641084",
+        "timestamp": "2016-03-18T16:26:24Z",
+        "name": "№17 Школа-гимназия",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1901259,
+          42.8728407
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1785654485",
+        "timestamp": "2012-06-13T07:28:17Z",
+        "name": "№39 гимназия",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.20636659999998,
+          42.87426519999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1785654488",
+        "timestamp": "2012-06-14T03:44:19Z",
+        "name": "№9 СШ им.Саввы",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.28580069999998,
+          42.8551513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1785716907",
+        "timestamp": "2012-06-13T08:25:40Z",
+        "name": "С.Шәкіров атындағы орта ме",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.77013979999998,
+          43.66642729999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1785718430",
+        "timestamp": "2012-06-13T08:28:10Z",
+        "name": "Керегетас орта мектебі",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.162107,
+          42.1943174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1785727671",
+        "timestamp": "2012-06-13T08:41:08Z",
+        "name": "Б.Түлкиев жалпы орта мекте",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.16317449999998,
+          42.22448739999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1786911825",
+        "timestamp": "2012-06-14T03:44:17Z",
+        "name": "№5 СШ",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.32356839999998,
+          42.8472763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1786913203",
+        "timestamp": "2012-11-24T21:54:14Z",
+        "name": "Средняя школа №2",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.285435,
+          42.860393
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1786915753",
+        "timestamp": "2012-06-14T04:07:00Z",
+        "name": "№44 СШ",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.17109449999998,
+          42.8476854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1788123898",
+        "timestamp": "2012-06-15T04:42:54Z",
+        "name": "школа №11",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.1367244,
+          50.4407799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1788124468",
+        "timestamp": "2012-06-15T04:44:28Z",
+        "name": "школа №42",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.1409516,
+          50.4451392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1793086113",
+        "timestamp": "2012-06-18T13:09:03Z",
+        "name": "Филологический факультет",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.61432089999998,
+          49.946606299999985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1806847425",
+        "timestamp": "2012-06-30T05:31:03Z",
+        "name": "Муз. школа",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.24358079999998,
+          50.436340499999986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1811535762",
+        "timestamp": "2012-07-03T18:01:07Z",
+        "name": "Школа №1",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.66466889999998,
+          48.56890279999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1813894159",
+        "timestamp": "2012-07-05T15:12:07Z",
+        "name": "Школа им.Горького",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.376428,
+          50.265611499999984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1814811540",
+        "timestamp": "2012-07-06T12:03:06Z",
+        "name": null,
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.4878873,
+          52.54003749999998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1814811545",
+        "timestamp": "2015-10-15T16:44:44Z",
+        "name": "КГУ \"Школа - Гимназия\"",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.49816529999998,
+          52.543417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1814811549",
+        "timestamp": "2012-07-06T12:03:07Z",
+        "name": null,
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.50543379999998,
+          52.54505129999998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1814811550",
+        "timestamp": "2012-07-06T12:03:07Z",
+        "name": null,
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.4833662,
+          52.545234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1814811555",
+        "timestamp": "2012-07-06T12:03:07Z",
+        "name": null,
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.4946455,
+          52.546608499999984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1814811574",
+        "timestamp": "2012-07-06T12:03:09Z",
+        "name": null,
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.4917439,
+          52.550842799999984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1826753361",
+        "timestamp": "2012-07-15T18:28:12Z",
+        "name": "Экономический лицей",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.24857859999999,
+          50.380929499999986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1832841824",
+        "timestamp": "2013-12-16T14:52:58Z",
+        "name": "Вело-школа",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.362643,
+          51.22397069999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1899122245",
+        "timestamp": "2016-02-05T20:19:22Z",
+        "name": "Средняя школа №19",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.39187119999998,
+          53.30762129999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1899122246",
+        "timestamp": "2016-02-05T20:19:21Z",
+        "name": "Средняя школа №17",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.39123029999999,
+          53.315508399999985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1899723316",
+        "timestamp": "2016-02-05T20:19:22Z",
+        "name": "Средняя школа №8",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.39720509999998,
+          53.29627619999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1915016814",
+        "timestamp": "2012-09-15T07:05:20Z",
+        "name": null,
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.463508,
+          46.195688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1920540743",
+        "timestamp": "2012-09-18T18:11:36Z",
+        "name": "ДОСААФ",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.25639589999999,
+          50.41560049999998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1933527249",
+        "timestamp": "2016-02-05T20:19:22Z",
+        "name": "Средняя школа №6",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.39566419999998,
+          53.28014609999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1933550751",
+        "timestamp": "2016-02-05T20:19:21Z",
+        "name": "Средняя школа №12",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.42705949999998,
+          53.28299579999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1933558930",
+        "timestamp": "2016-02-05T20:19:21Z",
+        "name": "Средняя школа №16",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.4104513,
+          53.286225299999984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1941133017",
+        "timestamp": "2016-02-05T20:19:22Z",
+        "name": "Средняя школа №3 им. М.Габд",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.37365829999999,
+          53.27685769999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1952742885",
+        "timestamp": "2012-10-09T11:24:30Z",
+        "name": "Музыкальная школа",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.27332449999999,
+          49.72626409999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1975531738",
+        "timestamp": "2012-10-20T18:26:18Z",
+        "name": "ОШ №3",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.71318009999999,
+          53.643748399999986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "1998326613",
+        "timestamp": "2014-01-21T18:33:28Z",
+        "name": "Школа №61",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.19235229999998,
+          49.8998142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2038234134",
+        "timestamp": "2013-02-26T17:24:34Z",
+        "name": "Педагогический колледж",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.15974959999998,
+          41.462243399999984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2038644382",
+        "timestamp": "2013-02-26T17:24:35Z",
+        "name": "СШ №135",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.16229819999998,
+          41.47164879999998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2038957689",
+        "timestamp": "2013-02-16T14:32:43Z",
+        "name": "Медецинский колледж Авице",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.1679335,
+          41.453293299999984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2039208562",
+        "timestamp": "2013-11-29T04:41:49Z",
+        "name": "СШ им. Т.Айбергенова",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.12792649999999,
+          41.469388399999985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2049493304",
+        "timestamp": "2013-04-10T07:37:48Z",
+        "name": "Средняя школа № 20",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.073581,
+          52.994426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2054408377",
+        "timestamp": "2013-01-23T13:08:13Z",
+        "name": "С/Ш 25",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.15878569999999,
+          50.305463899999985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2054672836",
+        "timestamp": "2013-01-23T13:08:13Z",
+        "name": "С/Ш 20",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.150000099999986,
+          50.302942899999984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2055105278",
+        "timestamp": "2013-07-31T05:31:36Z",
+        "name": "школа 35",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.198474,
+          50.28288349999998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2056685854",
+        "timestamp": "2013-03-27T08:05:13Z",
+        "name": "СШ №38",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.14997489999998,
+          50.2932285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2061129509",
+        "timestamp": "2013-02-16T14:33:42Z",
+        "name": "Технологический колледж",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.20674309999998,
+          41.46339549999998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2061130994",
+        "timestamp": "2013-02-16T14:33:49Z",
+        "name": "Университет Арыстанбаб",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.20803059999999,
+          41.463733099999985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2077407853",
+        "timestamp": "2012-12-21T12:23:31Z",
+        "name": "СШ №36",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.153214799999986,
+          50.316644299999986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2096684556",
+        "timestamp": "2013-01-05T17:53:49Z",
+        "name": "Школа №11",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0243618,
+          49.8603092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2096697485",
+        "timestamp": "2013-01-05T18:04:59Z",
+        "name": "Школа №50",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.00768109999999,
+          49.865501299999984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2104432054",
+        "timestamp": "2013-01-10T16:53:26Z",
+        "name": "Средняя школа №6 с. Петроп",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.924026699999985,
+          50.25296439999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2144966703",
+        "timestamp": "2014-05-29T07:54:45Z",
+        "name": "Средняя школа № 20",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.60835089999998,
+          53.1780236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2144984000",
+        "timestamp": "2013-02-07T06:03:27Z",
+        "name": null,
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.60736919999999,
+          53.1755608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2162619852",
+        "timestamp": "2013-02-19T13:32:33Z",
+        "name": "Автошкола АВС",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.6145141,
+          53.18070689999998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2202985072",
+        "timestamp": "2013-03-15T09:31:34Z",
+        "name": null,
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1526273,
+          49.772601399999985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2244835319",
+        "timestamp": "2013-04-02T12:40:08Z",
+        "name": "Областная Детско-Юношеска",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.163504199999984,
+          50.29589989999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2264397281",
+        "timestamp": "2013-08-07T15:26:33Z",
+        "name": "№176",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.84656349999999,
+          43.2119878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2287779689",
+        "timestamp": "2015-11-24T17:16:56Z",
+        "name": "40",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.3571434,
+          42.8865981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2288693137",
+        "timestamp": "2015-03-13T16:17:04Z",
+        "name": "Школа № 26",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.6157931,
+          49.897476699999984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2307285796",
+        "timestamp": "2013-05-20T07:06:07Z",
+        "name": "Аккистауская средняя школ",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.0111887,
+          47.22617239999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2308401606",
+        "timestamp": "2013-05-17T16:12:05Z",
+        "name": "Каргалинская средняя школ",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.40278639999998,
+          43.1667741
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2315932174",
+        "timestamp": "2013-05-22T15:40:12Z",
+        "name": "Каргалинская средняя школ",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.398911,
+          43.18158179999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2317424598",
+        "timestamp": "2013-12-30T18:01:45Z",
+        "name": "Средняя школа №32",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.57533659999997,
+          49.98880409999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2317928745",
+        "timestamp": "2013-05-24T06:18:06Z",
+        "name": null,
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.2836528,
+          49.72273139999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2317928746",
+        "timestamp": "2013-05-24T06:18:06Z",
+        "name": null,
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.28303049999998,
+          49.72485239999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2317928747",
+        "timestamp": "2013-05-24T06:18:06Z",
+        "name": null,
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.27815959999998,
+          49.72112159999998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2317928749",
+        "timestamp": "2013-05-24T06:18:06Z",
+        "name": null,
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.26247729999999,
+          49.7259628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2317928750",
+        "timestamp": "2013-05-24T06:18:06Z",
+        "name": null,
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.28069159999997,
+          49.7253241
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2317928752",
+        "timestamp": "2013-05-24T06:18:06Z",
+        "name": null,
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.29360919999998,
+          49.720873199999986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2317928753",
+        "timestamp": "2013-06-10T04:22:25Z",
+        "name": "Школа-интернат N1",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.25483179999998,
+          49.7301686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2317928756",
+        "timestamp": "2013-06-14T04:11:23Z",
+        "name": "школа N6",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.256555,
+          49.7129791
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2317928757",
+        "timestamp": "2013-05-24T06:18:07Z",
+        "name": null,
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.29302979999999,
+          49.7164338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2317985770",
+        "timestamp": "2013-05-24T07:20:35Z",
+        "name": "Школа-гимназия №103",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9659273,
+          43.292469799999985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2319708670",
+        "timestamp": "2013-12-19T11:03:04Z",
+        "name": "Средняя школа №1",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.25251219999998,
+          52.56235539999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2343662031",
+        "timestamp": "2013-06-13T18:54:23Z",
+        "name": "Каргалинская средняя школ",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.41512259999999,
+          43.1853884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2377099732",
+        "timestamp": "2013-08-01T13:49:19Z",
+        "name": null,
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.17202669999999,
+          43.7589489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2377620650",
+        "timestamp": "2013-07-09T18:21:27Z",
+        "name": "лицей им Т.Алимкулова",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.1580806,
+          43.75873279999998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2377632460",
+        "timestamp": "2013-07-08T05:50:32Z",
+        "name": "Музыкальная школа",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.17195,
+          43.763649
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2377712394",
+        "timestamp": "2013-07-08T08:16:00Z",
+        "name": "школа им. А.Байтурсынова",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.16645329999999,
+          43.7613311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2389187209",
+        "timestamp": "2013-07-19T07:51:30Z",
+        "name": "ТОО Дошкольный учебно-вос",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.42992109999999,
+          51.11959559999998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2425652575",
+        "timestamp": "2013-08-20T15:36:15Z",
+        "name": "СШ №19",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.31163729999999,
+          43.30074159999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2426826813",
+        "timestamp": "2013-08-21T13:55:39Z",
+        "name": "музыкальная школа",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.82852289999998,
+          49.52166519999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2437634929",
+        "timestamp": "2013-08-31T19:25:07Z",
+        "name": "Железнодорожная средняя ш",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          65.67139589999998,
+          52.099012899999984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2439190607",
+        "timestamp": "2013-08-30T14:21:28Z",
+        "name": "СШ №23",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.3169086,
+          43.2759828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2440616453",
+        "timestamp": "2013-08-31T17:25:10Z",
+        "name": "СШ №4 им. М. Маметовой",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.697238,
+          53.6295088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2442349838",
+        "timestamp": "2013-09-04T05:28:35Z",
+        "name": "СШ им. М.Абеновой",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.2935039,
+          43.28286869999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2445469091",
+        "timestamp": "2013-09-27T04:13:57Z",
+        "name": "СШ им. Магжана Жумабаева",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.26351529999997,
+          43.304534099999984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2446724971",
+        "timestamp": "2013-09-06T06:53:48Z",
+        "name": "СШ им. Сабир Рахимова",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.2807451,
+          43.2869745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2447802986",
+        "timestamp": "2013-09-06T06:08:32Z",
+        "name": "Вспомогательная школа-инт",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.27621879999998,
+          43.2939316
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2451560304",
+        "timestamp": "2013-09-09T11:53:49Z",
+        "name": "СШ им. А.Байтурсынова",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.2782822,
+          43.298917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2457057144",
+        "timestamp": "2014-08-03T11:16:07Z",
+        "name": "Школа №24",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.62081639999998,
+          49.90516019999998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2462464730",
+        "timestamp": "2013-09-18T06:04:35Z",
+        "name": "СШ №20",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.27690159999999,
+          43.3207438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2466320038",
+        "timestamp": "2013-09-21T11:59:45Z",
+        "name": "СШ №26",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.27122259999999,
+          43.2762623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2466397407",
+        "timestamp": "2013-09-22T04:54:25Z",
+        "name": "СШ №22",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.25199749999999,
+          43.2816084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2470914992",
+        "timestamp": "2013-09-26T04:35:15Z",
+        "name": "СШ №3 им. Амир Тимура",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.26089659999998,
+          43.299439599999985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2473400439",
+        "timestamp": "2013-09-27T12:06:25Z",
+        "name": "СШ им. Ш.Ниязова",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.25058719999998,
+          43.296339899999985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2476252311",
+        "timestamp": "2013-09-29T06:21:17Z",
+        "name": "СШ №5 им. Г.Муратбаева",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.2384422,
+          43.2938567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2478515953",
+        "timestamp": "2013-10-01T04:03:41Z",
+        "name": "СШ №16 им. Т.Бигельдинова",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.225966,
+          43.285996699999984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2478644657",
+        "timestamp": "2013-10-01T07:13:05Z",
+        "name": "Средняя школа № 1",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.86523739999998,
+          53.36900869999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2478935798",
+        "timestamp": "2013-10-01T13:01:57Z",
+        "name": "СШ №9 им. Н.Некрасова",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.2240761,
+          43.290006799999986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2479167059",
+        "timestamp": "2013-10-01T16:51:58Z",
+        "name": "СШ им. А.Навои",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.214049,
+          43.2895992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2479967818",
+        "timestamp": "2013-10-02T11:40:10Z",
+        "name": null,
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.66284479999999,
+          53.18202179999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2480009205",
+        "timestamp": "2013-10-02T12:13:12Z",
+        "name": "Школа искуства",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.22716409999998,
+          43.2932722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2480800478",
+        "timestamp": "2013-10-11T07:13:24Z",
+        "name": "Школа интернат №7 им. С.Еру",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.19104759999998,
+          43.3005082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2480903167",
+        "timestamp": "2013-10-03T07:24:53Z",
+        "name": "СШ им. Аль-Фараби",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.21336349999999,
+          43.2880618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2481986199",
+        "timestamp": "2013-10-04T06:42:46Z",
+        "name": "Вечерняя школа",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.2465116,
+          43.3030801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2483169094",
+        "timestamp": "2013-10-05T05:48:51Z",
+        "name": "Школа искуства",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.23943039999999,
+          43.31136559999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2483567944",
+        "timestamp": "2013-10-05T12:59:33Z",
+        "name": "СШ №4 им. С.Сейфуллин",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.23641569999998,
+          43.3030483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2485949429",
+        "timestamp": "2013-10-07T06:56:35Z",
+        "name": "Начальная школа-детский с",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.21297,
+          43.29052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2487651156",
+        "timestamp": "2013-10-08T08:00:30Z",
+        "name": "СШ №8 им. Н.Торекулова",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.2104577,
+          43.29730639999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2487953437",
+        "timestamp": "2013-10-08T13:02:19Z",
+        "name": "СШ №6 им. М.Маметова",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.2173453,
+          43.29896619999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2488982282",
+        "timestamp": "2013-10-09T06:36:22Z",
+        "name": "СШ №17 им. Ата Турк",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.22928629999998,
+          43.3004077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2491991407",
+        "timestamp": "2013-10-11T08:58:00Z",
+        "name": "СШ №12 им. К.Сатпаева",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.19460349999999,
+          43.299530199999985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2493598048",
+        "timestamp": "2013-10-12T11:28:31Z",
+        "name": "СШ №18",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.20183809999999,
+          43.2798741
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2500710783",
+        "timestamp": "2014-04-27T18:19:57Z",
+        "name": "Художественная школа",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.90230409999998,
+          52.3563653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2532327271",
+        "timestamp": "2013-12-30T18:32:29Z",
+        "name": null,
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.6815911,
+          49.65450649999998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2569232994",
+        "timestamp": "2015-05-08T07:28:44Z",
+        "name": "Haileybury Almaty",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.93305969999999,
+          43.21699479999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2571915029",
+        "timestamp": "2013-12-08T19:15:05Z",
+        "name": "Сш№5",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.7274732,
+          43.0108894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2584573105",
+        "timestamp": "2013-12-18T06:04:36Z",
+        "name": null,
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.61286119999998,
+          42.73876029999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2607584389",
+        "timestamp": "2015-08-24T12:15:33Z",
+        "name": "Средняя школа №22",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.7039316,
+          47.797750399999984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2621103063",
+        "timestamp": "2014-03-11T19:16:01Z",
+        "name": "Детская школа искусств № 1",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.3181059,
+          51.188427799999985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2621226325",
+        "timestamp": "2014-01-13T16:13:52Z",
+        "name": "Детская музыкальная школа",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.36862809999999,
+          51.2128476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2621226326",
+        "timestamp": "2016-03-16T06:56:13Z",
+        "name": "Детская художественная шк",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.36821469999999,
+          51.212790099999985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2622361092",
+        "timestamp": "2015-08-24T13:17:42Z",
+        "name": "Специализированная детск",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.37481949999999,
+          51.21728659999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2623554124",
+        "timestamp": "2014-01-15T15:32:02Z",
+        "name": "Мичуринский аграрно-техни",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.73671749999998,
+          49.6419924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2628259883",
+        "timestamp": "2014-01-19T09:35:29Z",
+        "name": "школа №85",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.2185278,
+          49.9756418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2631285059",
+        "timestamp": "2014-01-21T16:11:28Z",
+        "name": null,
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.23577149999998,
+          49.775249899999984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2631319531",
+        "timestamp": "2014-01-21T16:49:14Z",
+        "name": "Школа №65",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.21371329999998,
+          49.8920196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2631333374",
+        "timestamp": "2014-01-21T17:02:00Z",
+        "name": "Школа №34",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.20627289999997,
+          49.89878929999998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2631420997",
+        "timestamp": "2014-01-21T18:07:02Z",
+        "name": "Колледж Сервис",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.2063552,
+          49.88969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2637738311",
+        "timestamp": "2014-01-26T04:07:55Z",
+        "name": "Школа №13",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.190201,
+          49.866816499999985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2637738323",
+        "timestamp": "2014-01-26T04:07:56Z",
+        "name": "Школа №74",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1899113,
+          49.867532299999986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2639642357",
+        "timestamp": "2015-01-30T20:42:29Z",
+        "name": "Бобек",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.86773089999998,
+          43.19137449999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2656310413",
+        "timestamp": "2014-02-05T17:52:02Z",
+        "name": "Школа-гимназия №2",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.57206689999998,
+          50.00261759999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2657254281",
+        "timestamp": "2015-08-24T12:15:36Z",
+        "name": "Школа №260",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.663864,
+          46.79250459999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2685814946",
+        "timestamp": "2014-02-22T22:04:38Z",
+        "name": "школа им.Б.Бегалиева",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.300291499999986,
+          46.6006117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2685815004",
+        "timestamp": "2014-02-22T22:04:39Z",
+        "name": "Школа им. М.Ломоносова",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.2673981,
+          46.6062127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2690985808",
+        "timestamp": "2014-02-26T12:08:13Z",
+        "name": "Алгинская спец-школа",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.31598549999999,
+          49.894066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2705161487",
+        "timestamp": "2014-03-07T05:05:05Z",
+        "name": "№13 им.Мукимий",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.58394549999998,
+          42.2848242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2706520842",
+        "timestamp": "2014-06-13T19:16:28Z",
+        "name": "СШ 77",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.949434,
+          43.2180122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2835189119",
+        "timestamp": "2015-01-24T13:46:20Z",
+        "name": "Детская музыкальная школа",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.879064,
+          52.34404439999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2914951286",
+        "timestamp": "2014-06-13T19:52:43Z",
+        "name": "Гимназия №79",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.89650479999999,
+          43.2486257
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2914951287",
+        "timestamp": "2014-06-13T19:52:43Z",
+        "name": "Школа изобразительного ис",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.90321669999999,
+          43.2487137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2914951906",
+        "timestamp": "2014-06-13T19:52:44Z",
+        "name": "школа №124",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.90435449999997,
+          43.249223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2917210999",
+        "timestamp": "2014-06-15T10:45:57Z",
+        "name": "Общеобразовательная школ",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.94362659999997,
+          43.33629529999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2920150280",
+        "timestamp": "2014-06-17T11:29:43Z",
+        "name": null,
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.97770809999999,
+          51.075688499999984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2924330296",
+        "timestamp": "2014-06-20T07:18:09Z",
+        "name": "Сарыкольская средняя школ",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          65.54358269999999,
+          53.315512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2925590138",
+        "timestamp": "2014-06-21T06:55:21Z",
+        "name": null,
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.16567969999998,
+          43.7783678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2931002368",
+        "timestamp": "2014-06-24T13:22:24Z",
+        "name": "Школа-интернат  \"Дарын\"",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.23292819999999,
+          50.282154699999985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2962705400",
+        "timestamp": "2016-01-24T20:09:50Z",
+        "name": "Школа №77",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.18377969999999,
+          49.83213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2984042234",
+        "timestamp": "2015-03-16T15:21:58Z",
+        "name": "Урицкая средняя школа",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          65.54846219999999,
+          53.31340509999998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "2997576590",
+        "timestamp": "2014-08-07T09:29:12Z",
+        "name": "Ленинградская средняя шко",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.54064839999998,
+          53.53542629999998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "3065238992",
+        "timestamp": "2015-07-27T18:05:48Z",
+        "name": "ОСШ №31",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.99578919999998,
+          50.06703489999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "3125012560",
+        "timestamp": "2014-11-30T14:23:44Z",
+        "name": "Автошкола",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.55659269999997,
+          50.74522659999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "3218760444",
+        "timestamp": "2014-12-04T13:16:47Z",
+        "name": "Центр Лингво",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.369794599999985,
+          51.212917799999985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "3269205498",
+        "timestamp": "2015-06-04T17:18:29Z",
+        "name": "Средняя Школа  №29",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.223959599999986,
+          50.26024059999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "3310338448",
+        "timestamp": "2015-01-25T18:38:36Z",
+        "name": "Школа",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.60570409999998,
+          51.488808099999986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "3333345394",
+        "timestamp": "2015-02-06T05:56:01Z",
+        "name": "Средняя школа №235",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          65.53242129999998,
+          44.8350558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "3334354859",
+        "timestamp": "2016-04-07T09:40:31Z",
+        "name": "Средняя Школа №13",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.23315369999999,
+          50.273034799999984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "3357661115",
+        "timestamp": "2015-02-18T12:16:41Z",
+        "name": "№19",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.84797189999998,
+          43.33112709999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "3357661246",
+        "timestamp": "2015-02-18T12:16:55Z",
+        "name": "Лицей",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.84665229999999,
+          43.331369
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "3387820080",
+        "timestamp": "2015-03-07T15:34:33Z",
+        "name": "\"Шамырак\" образовательный",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.19405419999999,
+          50.26391249999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "3399839876",
+        "timestamp": "2015-03-15T13:26:15Z",
+        "name": "Образовательный центр \"Ба",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.162651,
+          50.28907679999998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "3474976390",
+        "timestamp": "2015-04-24T13:18:54Z",
+        "name": "СШ №15",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.23344539999999,
+          50.264422299999985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "3476127831",
+        "timestamp": "2015-04-25T08:25:53Z",
+        "name": "СШ № 56",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.18961019999998,
+          50.27523069999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "3491529951",
+        "timestamp": "2015-05-01T17:52:56Z",
+        "name": "Средняя школа № 47",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.14273319999999,
+          50.31917039999998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "3524843322",
+        "timestamp": "2015-05-18T06:41:08Z",
+        "name": "ТАМОС",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.887456,
+          43.2093641
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "3524850020",
+        "timestamp": "2015-05-18T06:34:32Z",
+        "name": "Средняя школа №55",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9030638,
+          43.2499134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "3582423993",
+        "timestamp": "2015-06-09T05:48:24Z",
+        "name": "ГККП \"Нур Талап\"",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.32838729999998,
+          49.900501599999984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "3582614193",
+        "timestamp": "2015-06-09T07:23:06Z",
+        "name": "Средняя школа №2 им.Пацаев",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.328350299999975,
+          49.901624799999986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "3657633244",
+        "timestamp": "2015-07-19T12:24:21Z",
+        "name": "Специализированная ДЮСШ№",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.35038739999999,
+          51.2119752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "3718343696",
+        "timestamp": "2015-08-28T10:16:48Z",
+        "name": null,
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.450045,
+          51.63712359999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "3718377572",
+        "timestamp": "2015-08-28T10:44:52Z",
+        "name": null,
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.41359909999998,
+          51.668013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "3874708418",
+        "timestamp": "2015-12-03T15:29:29Z",
+        "name": "Гимназия №35",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.95567859999998,
+          43.2483426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "3885913777",
+        "timestamp": "2015-12-10T11:50:01Z",
+        "name": null,
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.06516289999998,
+          43.3242098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "3885925601",
+        "timestamp": "2015-12-10T12:01:21Z",
+        "name": null,
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0550134,
+          43.31678669999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "3947096425",
+        "timestamp": "2016-01-15T04:14:19Z",
+        "name": null,
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.719166,
+          50.159140399999984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "4007957914",
+        "timestamp": "2016-02-15T18:38:15Z",
+        "name": "СШ.им.В.И.Ленина",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.7083606,
+          43.0477054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "4013985528",
+        "timestamp": "2016-02-19T07:35:48Z",
+        "name": "264 мектеп лицей",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          65.5194143,
+          44.7880426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "4044005195",
+        "timestamp": "2016-03-06T16:54:18Z",
+        "name": "школа №1 им.Ы.Алтынсарина",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.498199,
+          43.512167199999986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "4101045789",
+        "timestamp": "2016-04-06T03:40:39Z",
+        "name": "Областной Дворец Школьник",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.22135989999999,
+          50.284711499999986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "4101112401",
+        "timestamp": "2016-04-06T04:26:13Z",
+        "name": "Основная школа № 52",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.23120909999999,
+          50.2861788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "4104592149",
+        "timestamp": "2016-04-07T09:40:31Z",
+        "name": "Школа №42",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.221332199999985,
+          50.27757669999998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "4104687831",
+        "timestamp": "2016-04-07T10:28:06Z",
+        "name": "Школа \"Сымбат\"",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.2276266,
+          50.2814809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "4104687832",
+        "timestamp": "2016-04-07T10:28:06Z",
+        "name": "Образовательный комплекс",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.22750989999999,
+          50.28122479999998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": "4105488953",
+        "timestamp": "2016-04-07T15:59:11Z",
+        "name": "Средняя школа имени Жамбы",
+        "type": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.53608049999998,
+          48.8068073
+        ]
+      }
+    }
+  ]
+}
